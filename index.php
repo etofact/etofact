@@ -23,7 +23,7 @@
             Это факт.
         </div>
         
-        <label class="send-f" for="modal-2">Прислать факт</label>
+        <label class="send-f" for="modal-1">Прислать факт</label>
         <label class="send-x" for="modal-1">Прислать опровержение</label>
         <a class="send-x" href="#">Прочти меня</label>
     </header>
@@ -56,8 +56,8 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-3">Черные</a><p></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-4">ЮАР</a><p></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-5">Межрасовые отношения и дети</a><p></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Азиаты</a><p></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Латиноамериканцы</a><p></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-6">Азиаты</a><p></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-7">Латиноамериканцы</a><p></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Индейцы</a><p></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Прочие группы</a><p></li>
                 </ul>
@@ -95,7 +95,7 @@ function sendContact() {
 	if(valid) {
 		jQuery.ajax({
 		url: "send_form_email.php",
-		data:'userName='+$("#userName").val()+'&userEmail='+$("#userEmail").val()+'&subject='+$("#subject").val()+'&content='+$(content).val(),
+		data:'userName='+$("#userName").val()+'&userEmail='+$("#userEmail").val()+'&content='+$(content).val(),
 		type: "POST",
 		success:function(data){
 		$("#mail-status").html(data);
@@ -111,82 +111,58 @@ function validateContact() {
 	$(".info").html('');
 	
 	if(!$("#userName").val()) {
-		$("#userName-info").html("(required)");
+		$("#userName-info").html("(обязательно)");
 		$("#userName").css('background-color','#FFFFDF');
 		valid = false;
 	}
 	if(!$("#userEmail").val()) {
-		$("#userEmail-info").html("(required)");
+		$("#userEmail-info").html("(обязательно)");
 		$("#userEmail").css('background-color','#FFFFDF');
-		valid = false;
-	}
-	if(!$("#userEmail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
-		$("#userEmail-info").html("(invalid)");
-		$("#userEmail").css('background-color','#FFFFDF');
-		valid = false;
-	}
-	if(!$("#subject").val()) {
-		$("#subject-info").html("(required)");
-		$("#subject").css('background-color','#FFFFDF');
 		valid = false;
 	}
 	if(!$("#content").val()) {
-		$("#content-info").html("(required)");
+		$("#content-info").html("(обязательно)");
 		$("#content").css('background-color','#FFFFDF');
 		valid = false;
 	}
 	
 	return valid;
 }
-</script>                      
+</script>             
                       
 <input class="modal-state" id="modal-1" type="checkbox" />
 <div class="modal">
   <label class="modal__bg" for="modal-1"></label>
   <div class="modal__inner">
     <label class="modal__close" for="modal-1"></label>
-    <h2>Caaaats FTW!</h2>
+    <h2>Прислать</h2>
     
       <div id="frmContact">
     <div id="mail-status"></div>
+    <div class="frm-line">
+        <b>Факт:</b> Пожалуйста, помните, что источник должен быть идеологически нейтрален, чтобы факт нельзя было посчитать предвзятым.
+        <br />
+        <b>Опровержение:</b> Хотите &mdash; верьте, хотите &mdash; нет, но если мы получим опровержение от заслуживающего доверия источника, то оно будет опубликовано рядом с фактом. 
+        
+          </div>
     <div>
-        <label style="padding-top:20px;">Name</label><span id="userName-info" class="info"></span><br/>
+        <label style="padding-top:20px;">Факт или опровержение</label><span id="userName-info" class="info"></span><br/>
         <input type="text" name="userName" id="userName" class="demoInputBox">
     </div>
     <div>
-        <label>Email</label><span id="userEmail-info" class="info"></span><br/>
+        <label>Ссылка на источник</label><span id="userEmail-info" class="info"></span><br/>
         <input type="text" name="userEmail" id="userEmail" class="demoInputBox">
     </div>
     <div>
-        <label>Subject</label><span id="subject-info" class="info"></span><br/>
-        <input type="text" name="subject" id="subject" class="demoInputBox">
-    </div>
-    <div>
-        <label>Content</label><span id="content-info" class="info"></span><br/>
+        <label>Краткое описание</label><span id="content-info" class="info"></span><br/>
         <textarea name="content" id="content" class="demoInputBox" cols="60" rows="6"></textarea>
     </div>
     <div>
-        <button name="submit" class="btnAction" onClick="sendContact();">Send</button>
+        <button name="submit" class="btnAction" onClick="sendContact1();">Отправить</button>
     </div>
 </div>
-      
-      
-      
-      
-  </div>
 </div>
-
-<input class="modal-state" id="modal-2" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-2"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-2"></label>
-    <h2>Sleppy sloth</h2>
-    <p>Aliquam in sagittis nulla. Curabitur euismod diam eget risus venenatis, sed dictum lectus bibendum. Nunc nunc nisi, hendrerit eget nisi id, rhoncus rutrum velit. Nunc vel mauris dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam fringilla quis nisi eget imperdiet.</p>
-  </div>
 </div>
-                      
-                      
                       
                       
                       <h2 id="ArIs">Арабы и ислам</h2>
@@ -197,109 +173,109 @@ function validateContact() {
                       
 <p>                      
 Процент браков между кузенами в Арабском Мире составляет от 8% в Морокко до 44% в Саудовской Аравии.
-</p><a href="">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
+</p><a href="http://www.reproductive-health-journal.com/content/6/1/17">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
 
 Арабские христиане имеют более низкий процент инбридинга (межродственного потомства), чем арабские мусульмане.
-</p><a href="">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
+</p><a href="http://www.reproductive-health-journal.com/content/6/1/17">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
 
 Процент инбридинга продолжает расти в Катаре, Йемене, ОАЭ и других мусульманских странах.
-</p><a href="">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
+</p><a href="http://www.reproductive-health-journal.com/content/6/1/17">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
 
 25% египтян поддерживают атаки взрывников-смертников.
-</p><a href="">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=6</a><p>
+</p><a href="http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=6">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=6</a><p>
 
 36% мусульман считают, что атака 11 сентября была частично или полностью обоснованной.
-</p><a href="">http://www.washingtoninstitute.org/policy-analysis/view/just-like-us-really</a><p>
+</p><a href="http://www.washingtoninstitute.org/policy-analysis/view/just-like-us-really">http://www.washingtoninstitute.org/policy-analysis/view/just-like-us-really</a><p>
 
 В арабских странах наибольший процент инбридинга в Мире.
-</p><a href="">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
+</p><a href="http://www.reproductive-health-journal.com/content/6/1/17">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
 
-30% иракцев женятся на своих племянницах.
-</p><a href="">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
+30% иракцев женятся на собственных племянницах.
+</p><a href="http://www.reproductive-health-journal.com/content/6/1/17">http://www.reproductive-health-journal.com/content/6/1/17</a><p>
 
 62% палестинцев поддерживают атаки взрывников-смертников.
-</p><a href="">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=4</a><p>
+</p><a href="http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=4">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=4</a><p>
 
 Один из четырех палестинцев одобряет атаки на граждан на территории США.
-                      </p><a href="">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#=page=7</a><p>
+                      </p><a href="http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#=page=7">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#=page=7</a><p>
 
 87% египтян согласны с целями Аль-Каеды.
-                      </p><a href="">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=9</a><p>
+                      </p><a href="http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=9">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=9</a><p>
 
 78% египтян поддерживают атаки на американских солдат на Ближнем Востоке.
-                      </p><a href="">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=11</a><p>
+                      </p><a href="http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=11">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=11</a><p>
 
 35% палестинцев симпатизируют Аль-Каеде.
-                      </p><a href="">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=8</a><p>
+                      </p><a href="http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=8">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=8</a><p>
 
 Один из восьми мусульман в Мире поддерживает Аль-Каеду.
-                      </p><a href="">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=7</a><p>
+                      </p><a href="http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=7">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=7</a><p>
 
 Один из трех мусульман поддерживает террористическию организацию Хамас.
-</p><a href="">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=7</a><p>
+</p><a href="http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=7">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=7</a><p>
 
 1 из 9 арабов поддерживает ИГИЛ.
-</p><a href="">http://english.dohainstitute.org/content/6a355a64-5237-4d7a-b957-87f6b1ceba9b</a><p>
+</p><a href="http://english.dohainstitute.org/content/6a355a64-5237-4d7a-b957-87f6b1ceba9b">http://english.dohainstitute.org/content/6a355a64-5237-4d7a-b957-87f6b1ceba9b</a><p>
 
 Страны Ислама производят так мало патентов, что их вклад признается “невидимым”.
-</p><a href="">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
+</p><a href="http://www.nature.com/nature/journal/v444/n7115/full/444026a.html">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
 
 На научные исследования все страны Ислама тратят лишь одну седьмую от того объема ВВП, что тратят страны остального Мира.
-</p><a href="">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
+</p><a href="http://www.nature.com/nature/journal/v444/n7115/full/444026a.html">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
 
 Объем научных исследований любой мусульманской страны ниже среднемирового.
-</p><a href="">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
+</p><a href="http://www.nature.com/nature/journal/v444/n7115/full/444026a.html">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
 
 В среднем, мусульманская страна производит в десять раз меньше научных исследований, чем немусульманская.
-</p><a href="">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
+</p><a href="http://www.nature.com/nature/journal/v444/n7115/full/444026a.html">http://www.nature.com/nature/journal/v444/n7115/full/444026a.html</a><p>
 
 От 3% до 30% турецких студентов колледжей считают “убийства чести” нормой.
-</p><a href="">https://web.archive.org/web/20061120222347/</p><a href="">http://mobile.alertnet.org/thenews/newsdesk/L25341831.htm</a><p>
+</p><a href="https://web.archive.org/web/20061120222347/http://mobile.alertnet.org/thenews/newsdesk/L25341831.htm">https://web.archive.org/web/20061120222347/http://mobile.alertnet.org/thenews/newsdesk/L25341831.htm</a><p>
 
 1 из трех молодых иорданцев согласен с “убийствами чести”.
-</p><a href="">http://onlinelibrary.wiley.com/doi/10.1002/ab.21485/abstract</a><p>
+</p><a href="http://onlinelibrary.wiley.com/doi/10.1002/ab.21485/abstract">http://onlinelibrary.wiley.com/doi/10.1002/ab.21485/abstract</a><p>
 
 Половина живущих в сельской местности афганцев занимается педофилией.
-</p><a href="">http://foreignpolicy.com/2013/10/28/bacha-bazi-an-afghan-tragedy/</a><p>
+</p><a href="http://foreignpolicy.com/2013/10/28/bacha-bazi-an-afghan-tragedy/">http://foreignpolicy.com/2013/10/28/bacha-bazi-an-afghan-tragedy/</a><p>
 
 16% турков поддерживают террористов-смертников.
-</p><a href="">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=5</a><p>
+</p><a href="http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=5">http://www.pewglobal.org/files/2013/09/Pew-Global-Attitudes-Project-Extremism-Report-Final-9-10-135.pdf#page=5</a><p>
 
 Более половины морокканцев поддерживают атаки на американских солдат.
-</p><a href="">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=11</a><p>
+</p><a href="http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=11">http://www.worldpublicopinion.org/pipa/pdf/feb09/STARTII_Feb09_rpt.pdf#page=11</a><p>
 
 Большинство пакистанцев были огорчены смертью Осамы Бил Ладена.
-</p><a href="">http://www.americanthinker.com/blog/2011/05/majority_of_our_pakistani_alli.html</a><p>
+</p><a href="http://www.americanthinker.com/blog/2011/05/majority_of_our_pakistani_alli.html">http://www.americanthinker.com/blog/2011/05/majority_of_our_pakistani_alli.html</a><p>
 
 20% турков считают, что карикатуристы Charlie Hebdo “получили по заслугам” за оскорбление Ислама.
-</p><a href="">http://www.hurriyetdailynews.com/polls-finding-on-islam-and-violence-should-ring-alarm-bells.aspx?pageID=449&nID=77797&NewsCatID=412</a><p>
+</p><a href="http://www.hurriyetdailynews.com/polls-finding-on-islam-and-violence-should-ring-alarm-bells.aspx?pageID=449&nID=77797&NewsCatID=412">http://www.hurriyetdailynews.com/polls-finding-on-islam-and-violence-should-ring-alarm-bells.aspx?pageID=449&nID=77797&NewsCatID=412</a><p>
 
 11.5% арабов (42 миллиона человек) поддержиют ИГИЛ.
-</p><a href="">http://www.clarionproject.org/analysis/isis-has-least-42-million-supporters-arab-world</a><p>
+</p><a href="http://www.clarionproject.org/analysis/isis-has-least-42-million-supporters-arab-world">http://www.clarionproject.org/analysis/isis-has-least-42-million-supporters-arab-world</a><p>
 
 Существует “большая предрасположенность к близкородственным бракам в большинстве мусульманских стран”.
-</p><a href="">http://www.pnas.org/content/107/suppl_1/1779.full</a><p>
+</p><a href="http://www.pnas.org/content/107/suppl_1/1779.full">http://www.pnas.org/content/107/suppl_1/1779.full</a><p>
 
-74% жителей Северной Африки и Ближнего Востока - антисемиты.
-</p><a href="">http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists</a><p>
+74% жителей Северной Африки и Ближнего Востока &mdash; антисемиты.
+</p><a href="http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists">http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists</a><p>
 
 Половина всех мусульман являются потомками близкородственных браков.
-</p><a href="">https://pickeringpost.com/story/the-cost-of-islamic-incest/1316</a><p>
+</p><a href="https://pickeringpost.com/story/the-cost-of-islamic-incest/1316">https://pickeringpost.com/story/the-cost-of-islamic-incest/1316</a><p>
 
 Сотни миллионов мусульман отрицают свободу религии и свободу слова.
-</p><a href="">http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists</a><p>
+</p><a href="http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists">http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists</a><p>
 
 Четыре страны с наивысшим процентов браков на несовершеннолетних являются мусульманскими.
-</p><a href="">http://www.ibtimes.co.uk/top-five-countries-highest-rates-child-marriage-1444103</a><p>
+</p><a href="http://www.ibtimes.co.uk/top-five-countries-highest-rates-child-marriage-1444103">http://www.ibtimes.co.uk/top-five-countries-highest-rates-child-marriage-1444103</a><p>
 
 Около трехсот миллионов мусульман поддерживают ИГИЛ.
-</p><a href="">http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html</a><p>
+</p><a href="http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html">http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html</a><p>
 
 В Мире растет поддержка ИГИЛ мусульманами и, по осторожным оценкам, достигает 20%-30% (около пятисот миллионов человек).
-</p><a href="">http://www.americanthinker.com/articles/2015/11/isis_and_us_believers_vs_agnostics.html</a><p>
+</p><a href="http://www.americanthinker.com/articles/2015/11/isis_and_us_believers_vs_agnostics.html">http://www.americanthinker.com/articles/2015/11/isis_and_us_believers_vs_agnostics.html</a><p>
 
 Изнасилования женщин “неверных” это часть исламского закона и исламских традиций.
-</p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a><p>
+</p><a href="http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a><p>
 
                       <h3 id="ArIs-2">в Северной Америке</h3>
 
@@ -513,7 +489,7 @@ function validateContact() {
 4% британских мусульман живут в бесплатном жилье.
 </p><a href="">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a><p>
 
-Один из пяти британских мусульман утверждает, что он инвалид - это наивысший процент среди всех этнических или религиозных групп.
+Один из пяти британских мусульман утверждает, что он инвалид &mdash; это наивысший процент среди всех этнических или религиозных групп.
 </p><a href="">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a><p>
 
 40% британских мусульман хотят жить при законе шариата.
@@ -564,7 +540,7 @@ function validateContact() {
 Один из трех молодых британских мусульман считает, что терроризм обоснован.
 </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a><p>
 
-4% британских мусульман не верят в реальность Холокоста (как и 100% нашей редакции - прим. переводчика).
+4% британских мусульман не верят в реальность Холокоста (как и 100% нашей редакции &mdash; прим. перевод.).
 </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=27</a><p>
 
 Большинство британских мусульман считают, что не должны участвовать в мероприятиях памяти Холокоста.
@@ -609,7 +585,7 @@ function validateContact() {
 10% мусульманских студентов не сообщили бы о планировании теракта (еще 10% отказались ответить).
 </p><a href="">http://web.archive.org/web/20060510191210/http://www.fosis.org.uk/sac/FullReport.pdf#page=36</a><p>
 
-Мусульмане составляют 21% всей преступности среди молодежи, иммигранты в целом - 45%.
+Мусульмане составляют 21% всей преступности среди молодежи, иммигранты в целом &mdash; 45%.
 </p><a href="">http://www.standard.co.uk/news/crime/hugely-disproportionate-number-of-gypsy-inmates-in-youth-prisons-a3137441.html</a><p>
 
 Британские мусульмане чаще вступают в ИГИЛ, чем в британскую армию.
@@ -627,7 +603,7 @@ function validateContact() {
 7% населения Великобритании разделяют идеи ИГИЛ.
 </p><a href="">https://www.rt.com/news/181076-isis-islam-militans-france/</a><p>
 
-В Великобритании около одного миллиона жертв изнасилования мусульманами (информация на 2015 год - прим. переводчика)
+В Великобритании около одного миллиона жертв изнасилования мусульманами (информация на 2015 год &mdash; прим. перевод.)
 </p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a><p>
 
                       <h3 id="ArIs-6">в Швеции</h3>
@@ -635,13 +611,13 @@ function validateContact() {
 Разница в доходах между коренными шведами и иммигрантами продолжает увеличиваться.
 </p><a href="">http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/</a><p>
 
-25% преступлений совершается иммигрантами, и еще 20% - детьми иммигрантов.
+25% преступлений совершается иммигрантами, и еще 20% &mdash; детьми иммигрантов.
 </p><a href="">http://www.thelocal.se/20051214/2683</a><p>
 
-Швеция - “столица изнасилований” Европы, в основном из-за иммиграции.
+Швеция &mdash; “столица изнасилований” Европы, в основном из-за иммиграции.
 </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a><p>
 
-85% насильников в Швеции - мигранты.
+85% насильников в Швеции &mdash; мигранты.
 </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a><p>
 
 Североафриканские мигранты совершают изнасилования в 23 раза чаще, чем коренные шведы.
@@ -659,13 +635,13 @@ function validateContact() {
 В Швеции из-за иммиграции возросло экономическое неравенство.
 </p><a href="">http://www.diva-portal.org/smash/get/diva2:819935/FULLTEXT01.pdf#page=3</a><p>
 
-Одна из четырех шведок будет изнасилована в течение ее жизни (речь в статье, конечно же, идет об изнасиловании мигрантами - прим. переводчика).
+Одна из четырех шведок будет изнасилована в течение ее жизни (речь в статье, конечно же, идет об изнасиловании мигрантами &mdash; прим. перевод.).
 </p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a><p>
 
 Иммигранты в Швеции зарабатывают 60% от зарплаты коренных шведов, и эта разница почти не менялась на протяжении 25 лет.
 </p><a href="">http://www.aei.org/publication/ikeamerica-should-the-us-really-be-more-like-sweden-a-qa-with-economist-tino-sanandaji/</a><p>
 
-Иммиграция в Швеции - это расходная статья бюджета даже в долгосрочной перспективе.
+Иммиграция в Швеции &mdash; это расходная статья бюджета даже в долгосрочной перспективе.
                       </p><a href="">http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/</a><p>
 
 Швеции наименее эффективно удается интергировать мигрантов среди все всех стран Мира.
@@ -691,7 +667,7 @@ function validateContact() {
 Являясь детьми близкородственных браков, дети мусульманских иммигрантов в три раза чаще детей коренных датчан оказываются умственно отсталыми.
 </p><a href="">http://onlinelibrary.wiley.com/doi/10.1111/ppe.12195/abstract</a><p>
 
-Более половины всех насильников в Дании - иммигранты.
+Более половины всех насильников в Дании &mdash; иммигранты.
 </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a><p>
 
 77% датских мусульман верят, что нужно беспрекословно следовать Корану.
@@ -711,7 +687,7 @@ function validateContact() {
 В среднем, содержание иммигранта-неевропейца обходится бюджету Дании в два с половиной миллиона крон (450.000 дол.)
 </p><a href="">http://www.fm.dk/db/filarkiv/18669/Rapport_globalisering.pdf</a><p>
 
-Половина осужденных насильников в Дании - мусульмане.
+Половина осужденных насильников в Дании &mdash; мусульмане.
 </p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a><p>
 
                       <h3 id="ArIs-8">во Франции</h3>
@@ -789,7 +765,7 @@ function validateContact() {
 
                       <h3 id="ArIs-10">в Испании</h3>
 <p>
-70% заключенных в Испании - мусульмане, не смотря на то, что они составляют лишь 1.5% населения страны.
+70% заключенных в Испании &mdash; мусульмане, не смотря на то, что они составляют лишь 1.5% населения страны.
 </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a><p>
 
 25% мусульман Испании считают, что терроризм обоснован.
@@ -811,7 +787,7 @@ function validateContact() {
 
                       <h3 id="ArIs-12">в Ирландии</h3>
 <p>
-В Ирландии мигранты ответственны за ¼ всех зарегистрированных случаев жестокого обращения с детьми.
+В Ирландии мигранты ответственны за четверть всех зарегистрированных случаев жестокого обращения с детьми.
 </p><a href="">http://www.independent.ie/breaking-news/irish-news/immigrant-parent-families-make-up-264-of-child-protection-cases-says-report-34245482.html</a>
                       
                       
@@ -831,11 +807,11 @@ function validateContact() {
 </p><a href="">http://www.nationalreview.com/article/424796/immigration-wave-post-1965-pew-study</a><p>
 15% генома человека было сформированно естественным отбором уже после того, как произошло разделение на расы.  </p><a href="">http://www.amazon.com/Troublesome-Inheritance-Genes-Human-History/dp/1594204462</a><p>
 Научное обсуждение понятия “раса” началось с 1946 года. Scientific discussion of race has increased since 1946 onwards. </p><a href="">http://www.ln.edu.hk/philoso/staff/sesardic/Race.pdf#page-15</a><p>
-Концентрация меланина (пигмента, отвечающего, кроме прочего, за цвет кожи - прим. переводчика) может напрямую коррелировать с уровнем агрессии.
+Концентрация меланина (пигмента, отвечающего, кроме прочего, за цвет кожи &mdash; прим. перевод.) может напрямую коррелировать с уровнем агрессии.
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886912000840</a><p>
 Раса позволяет лучше предсказать уровень преступности, чем бедность. 
 </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
-Цель Раздела 8 Закона о жилье 1937 года США (вкратце: дешевое или бесплатное жилье для малоимущих - прим. переводчика) убрать черных из элитных городских районов в пригороды для среднего класса.
+Цель Раздела 8 Закона о жилье 1937 года США (вкратце: дешевое или бесплатное жилье для малоимущих &mdash; прим. перевод.) убрать черных из элитных городских районов в пригороды для среднего класса.
 </p><a href="">http://www.unz.com/article/race-and-crime-in-america/</a><p>
 Процент черных и латиноамериканцев в районе является позволяет лучше, чем уровень бедности, предсказать уровень преступности.
 </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
@@ -848,24 +824,24 @@ function validateContact() {
 <a href="">https://www.novapublishers.com/catalog/product_info.php?products_id=7337</a><p>
 Белые и азиатские женщины имеют более удачные браки, чем черные и латиноамериканки.
 </p><a href="">http://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf#page=7</a><p>
-Черные и латиноамерикацы обладают более низким уровнем самоконтроля, чем белые (в оригинале говорится о delay gratification, “Отложенное вознаграждение”: умение не воспользоваться каким-то вознаграждением сейчас, чтобы получить большее вознаграждение в будущем. - прим. переводчика).
+Черные и латиноамерикацы обладают более низким уровнем самоконтроля, чем белые (в оригинале говорится о delay gratification, “Отложенное вознаграждение”: умение не воспользоваться каким-то вознаграждением сейчас, чтобы получить большее вознаграждение в будущем. &mdash; прим. перевод.).
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
 Расизм это “автоматическая” часть человеческого поведения.
 </p><a href="">http://journal.frontiersin.org/article/10.3389/fpsyg.2011.00108/abstract</a><p>
 Более привлекательные мужчины с высоким уровнем тестостерона чаще бывают расистами. </p><a href="">http://motherboard.vice.com/blog/ironically-a-mans-face-can-tell-you-if-hes-likely-to-act-like-a-racist</a><p>
 Из тридцати наиболее трагичных массовых убийств цветные как минимум двенадцать. </p><a href="">http://www.vdare.com/posts/of-the-thirty-deadliest-shooters-at-least-a-dozen-are-not-white-males</a><p>
-Большинство студетнов, обвиненных в изнасилованиях - цветные. </p><a href="">http://www.newyorker.com/news/news-desk/argument-sexual-assault-race-harvard-law-school</a>
+Большинство студетнов, обвиненных в изнасилованиях &mdash; цветные. </p><a href="">http://www.newyorker.com/news/news-desk/argument-sexual-assault-race-harvard-law-school</a>
 
 
 
 <h3 id="Races-2">Белые</h3>
 <p>Белые мужчины вне зависимости от весовой категории сильнее черных и латиноамериканцев.
 </p><a href="">http://www.biomedcentral.com/1471-2458/10/508</a><p>
-Германцы/скандинавцы имеют более низкие временные предпочтения, чем другие группы (Ориг: lower time preference. Вкратце: способны подождать дольше, чтобы получить больше - прим. перевод.). 
+Германцы/скандинавцы имеют более низкие временные предпочтения, чем другие группы (в оригинале: lower time preference. Вкратце: способность подождать дольше, чтобы получить больше &mdash; прим. перевод.). 
  </p><a href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1481443</a><p>
 Азиаты, латиноамеркианцы и черные предпочли бы жить среди белых, чем среди других меньшинств.
-Source: </p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a><p>
-90% членов банд - цветные. Source: </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
+</p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a><p>
+90% членов банд &mdash; цветные.</p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
 Белые не-евреи &mdash; самая малочисленная группа среди студентов колледжей. </p><a href="">http://www.theamericanconservative.com/articles/the-myth-of-american-meritocracy/</a><p>
 Западный тип лица с большими глазами и бледной кожей повсеместно считается привлекательным. </p><a href="">http://www.newyorker.com/magazine/2015/03/23/about-face</a><p>
 Западных произведений искусства больше, чем всех остальных вместе взятых.
@@ -874,9 +850,9 @@ Source: </p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a
 
 
 <h3 id="Races-3">Черные</h3>
-<p>Европейцы и Азиаты &mdash; продукт более поздней эволюции, чем африканцы.
+<p>Европейцы и азиаты &mdash; продукт более поздней эволюции, чем африканцы.
  </p><a href="">http://www.nytimes.com/2010/07/20/science/20adapt.html</a><p>
-48% африканцев являются носителями вируса герпеса первого и второго типа. (Важное дополнение: инфекция вируса герпеса второго типа увеличивает риск заражения ВИЧ-инфекцией приблизительно в три раза. Кроме того, лица, зараженные ВИЧ и этим вирусом, с большей вероятностью передают ВИЧ другим. У лиц, инфицированных ВИЧ, вирус герпеса второго типа является одной их наиболее частых инфекций и встречается у 60-90% лиц с ВИЧ-инфекцией - прим. перевод.). 
+48% африканцев являются носителями вируса герпеса первого и второго типа. (Важное дополнение: инфекция вируса герпеса второго типа увеличивает риск заражения ВИЧ-инфекцией приблизительно в три раза. Кроме того, лица, зараженные ВИЧ и этим вирусом, с большей вероятностью передают ВИЧ другим. У лиц, инфицированных ВИЧ, вирус герпеса второго типа является одной их наиболее частых инфекций и встречается у 60-90% лиц с ВИЧ-инфекцией &mdash; прим. перевод.). 
 </p><a href="">http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm</a><p>
 Процент заражения гонореей в 30 раз выше среди афроамериканцев, чем среди белых. 
 </p><a href="">http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm</a><p>
@@ -891,7 +867,7 @@ Source: </p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a
                       <a href="">https://www.fbi.gov/about-us/cjis/ucr/leoka/2013/officers-feloniously-killed/felonious_topic_page_2013.pdf#page=4</a><p>
 73% афроамериканских детей рождается вне брака. </p><a href="">http://www.cdc.gov/nchs/data/nvsr/nvsr61/nvsr61_01.pdf#page=8</a><p>
 Средний коэффициент интеллекта черного на 15 пунктов ниже, чем белого. 
-Source: </p><a href="">http://www.gifted.uconn.edu/siegle/research/correlation/intelligence.pdf</a><p>
+</p><a href="">http://www.gifted.uconn.edu/siegle/research/correlation/intelligence.pdf</a><p>
 Разница в IQ между черными и белыми в США такая же, как в ЮАР, не смотря на то, что ЮАР управляется черными.
 </p><a href="">http://psychology.uwo.ca/faculty/rushtonpdfs/ravensiii.pdf</a><p>
 Разница в IQ между черными и белыми сохраняется даже в одинаковых условиях для воспитания и роста. 
@@ -934,7 +910,7 @@ Source: </p><a href="">http://www.gifted.uconn.edu/siegle/research/correlation/i
 </p><a href="">http://www.csc-scc.gc.ca/research/r144-eng.shtml</a><p>
 Черный вероятнее, чем белый, окажется нарциссистом.
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S0092656611000912</a><p>
-67% арестованных за преступления с применением оружия в Лондоне - черные (черное население Лондона: 12%).
+67% арестованных за преступления с применением оружия в Лондоне &mdash; черные (черное население Лондона: 12%).
 </p><a href="">http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html</a><p>
 32% изнасилований в Лондоне совершают черные (черное население Лондона: 12%). 
 </p><a href="">http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html</a><p>
@@ -946,7 +922,7 @@ Source: </p><a href="">http://www.gifted.uconn.edu/siegle/research/correlation/i
 70% эфиопских женщин признают, что подверглись физическому или сексуальному насилию. 
 </p><a href="">http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736%2806%2969523-8.pdf</a><p>
 Черные более склонны к психопатии и менее способны к эмпатии, чем белые.
-Source: </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
+</p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
 Черные чаще совершают насильственные преступления против белых, чем против других черных.
 </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
 Черный в 136 раз вероятнее совершит насильственное преступление против белого, чем наоборот.  </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
@@ -989,7 +965,7 @@ Cреди заключенных лондонских тюрем черных в
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
 Черные меньше занимаются бытовыми делами. 
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
-Черные имеют оценку SAT ниже, чем белые. (SAT стандартизированный тест для приема в высшие учебные заведения США - прим. перевод.)
+Черные имеют оценку SAT ниже, чем белые. (SAT стандартизированный тест для приема в высшие учебные заведения США &mdash; прим. перевод.)
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
 Черные в четыре раза чаще, чем белые, оказываются убийцами собственных детей. 
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
@@ -1009,7 +985,7 @@ Cреди заключенных лондонских тюрем черных в
 </p><a href="">http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/</a><p>
 Черные составляют лишь 13% населения, но совершили половину всех убийств в США за 30 лет.
 </p><a href="">http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/</a><p>
-У европейцев 540 Нобелевских премий, у африканцев - одна.
+У европейцев 540 Нобелевских премий, у африканцев &mdash; одна.
  </p><a href="">http://mankindquarterly.org/archive/paper.php?p=647</a><p>
 Черные на 60-80% более, чем белые, склонны солгать в ответ на вопрос о количестве преступлений, которые они совершали. 
 </p><a href="">http://www.sciencedirect.com/science/article/pii/S019188690200363X</a><p>
@@ -1027,7 +1003,7 @@ Cреди заключенных лондонских тюрем черных в
 </p><a href="">http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full</a><p>
 Черный мужчина в сто раз чаще совершает изнасилование белой женщины, чем белый мужчина изнасилование черной женщины.
 </p><a href="">http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full</a><p>
-Из 1500 шахматных гроссмейстеров Мира только три или четыре - черные.
+Из 1500 шахматных гроссмейстеров Мира только три или четыре &mdash; черные.
 </p><a href="">http://worldchess.com/2015/12/15/the-racial-gap-for-titles-among-american-players/</a><p>
 Только 54% всех черных мужчин между в возрасте между 25-34 годами имеют школьное образование, работу и находятся на свободе.
 </p><a href="">http://blogs.baruch.cuny.edu/lexingtonreview/?p=36</a><p>
@@ -1044,7 +1020,7 @@ Cреди заключенных лондонских тюрем черных в
 </p><a href="">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a><p>
 Процент убийств в ЮАР находится на 10-м месте в Мире. Белые фермеры бывают жертвами в четыре раза чаще остальных жителей.
  </p><a href="">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a><p>
-Черные жители ЮАР - не коренные жители. Они прибыли туда сразу перед белыми поселенцами. 
+Черные жители ЮАР &mdash; не коренные жители. Они прибыли туда сразу перед белыми поселенцами. 
 </p><a href="">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a><p>
 В ЮАР каждые три минуты подвергается изнасилованию ребенок (175000 детей каждый год).
 </p><a href="">http://news.bbc.co.uk/2/hi/africa/8107039.stm</a><p>
@@ -1058,7 +1034,7 @@ Cреди заключенных лондонских тюрем черных в
  </p><a href="">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a><p>
 В отличие от всех остальных, у субсахарских культур Африки (стран, находящихся к югу от Сахары, “Черная Африка” ) нет мифологии, связанной со звездами или ночным небом.
 </p><a href="">http://www.folklore.ee/rl/pubte/ee/araamat/2009/3berezkin.pdf#page=3</a><p>
-Жители “Черной Африки” - единственная группа людей, у которой нет подробной мифологии или истории сотворения Мира.
+Жители “Черной Африки” &mdash; единственная группа людей, у которой нет подробной мифологии или истории сотворения Мира.
 </p><a href="">http://www.amazon.com/Origins-Worlds-Mythologies-Michael-Witzel/dp/0199812853</a><p>
 От 35% до 50% населения “Черной Африки” рождены от близкородственных связей.
 </p><a href="">http://ieet.org/index.php/IEET/more/pellissier20120526</a>
@@ -1068,7 +1044,7 @@ Cреди заключенных лондонских тюрем черных в
                       
 <p>Дети-метисы белых и азиатов в два раза сильнее, чем азиатские дети, подвержены психическим заболеваниям. 
 </p><a href="">http://news.ucdavis.edu/search/news_detail.lasso?id=8732</a><p>
-Цветные автоматически повышают свой статус, вступая в отношениям с белыми (а белые, встречаясь с черными - нет)
+Цветные автоматически повышают свой статус, вступая в отношениям с белыми (а белые, встречаясь с черными &mdash; нет)
 </p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a><p>
 Дети-мулаты белых и черных имеют более слабое здоровье, чем белые дети.
 </p><a href="">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2867623/</a><p>
@@ -1096,7 +1072,7 @@ Cреди заключенных лондонских тюрем черных в
 </p><a href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3611980/</a><p>
 Предрасположенность против расового смешения имеет биологическое происхождение. 
 </p><a href="">http://www.ncbi.nlm.nih.gov/pubmed/19422626</a><p>
-Риск развода межрасовых браков 23.5% (у однорасовых браков - 13% ).
+Риск развода межрасовых браков 23.5% (у однорасовых браков &mdash; 13% ).
 </p><a href="">http://www.jstor.org/stable/4145377</a><p>
 Дети метисы и мулаты страдают от низкой самооценки, социальной изоляции и плохих внутрисемейных отношений.
 </p><a href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448064/</a><p>
@@ -1116,6 +1092,73 @@ Cреди заключенных лондонских тюрем черных в
 </p><a href="">http://paa2008.princeton.edu/papers/80046#page=23</a><p>
 Мужчины и женщины с хорошим образованием склонны исключить черных как партнеров для романтических отношений.
 </p><a href="">http://paa2008.princeton.edu/papers/80046#page=23</a>
+                      
+                      
+                      <h3 id="Races-6">Азиаты</h3>
+<p>40% азиаток отказываются встречаться с мужчинами-азиатами.
+</p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a><p>
+Азиатки считают белых мужчин более привлекательными, чем азиатов.
+</p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a><p>
+Азиаты в девять раз чаще белых оказываются членами банд.
+                      </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
+Существуют доказательства, что азиаты генетически обладают меньшим чувством индивидуальности и более склонны к подчинению, чем белые. 
+</p><a href="">http://rspb.royalsocietypublishing.org/content/early/2009/10/27/rspb.2009.1650.full</a><p>
+Азиаты чаще, чем белые, не выполняют финансовые обязательства.
+</p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
+Примерно каждая третья кореянка делала пластическую операцию.
+</p><a href="">http://www.newyorker.com/magazine/2015/03/23/about-face</a><p>
+Половина молодых кореянок делала платическую операцию.
+</p><a href="">http://www.newyorker.com/magazine/2015/03/23/about-face</a><p>
+Корейцы более озабочены физической привлекательностью, чем жители Запада.
+</p><a href="">http://www.newyorker.com/magazine/2015/03/23/about-face</a><p>
+
+                      <h3 id="Races-7">Латиноамериканцы</h3>
+<p>64% латиноамериканцев непригодны для армии из-за слишком низкого коэффициента интеллекта.
+</p><a href="">http://takimag.com/article/frequently_asked_questions_about_the_jason_richwine_brouhaha_steve_sailer/print#ixzz2TPXmpNgG</a><p>
+Латиноамериканцы получают более короткие сроки за те же самые преступления, чем белые. 
+</p><a href="">http://people.terry.uga.edu/mustard/sentencing.pdf</a><p>
+Латиноамеркианцы оказываются заключенными в 2.9 раз чаще, чем белые. 
+</p><a href="">http://www.theamericanconservative.com/articles/fragmented-future/</a><p>
+Дети латиноамериканских иммигрантов совершают преступления чаще, чем их родители.
+</p><a href="">http://www.theamericanconservative.com/articles/fragmented-future/</a><p>
+Мексиканцы, рожденные в США, чаще рождаются вне брака, чем мексиканцы, рожденные в Мексике. 
+</p><a href="">http://www.theamericanconservative.com/articles/fragmented-future/</a><p>
+48% латиноамериканцев рождены вне брака, в два раза больше, чем белых. 
+</p><a href="">http://www.theamericanconservative.com/articles/fragmented-future/</a><p>
+От 30.000 до 40.000 нелегалов находятся в тюрьмах США.
+</p><a href="">http://cis.org/ImmigrantCrime</a><p>
+Латиноамериканцы без американского гражданства составляют 29% контингента тюрем США, но 5% от общего населения США.
+</p><a href="">http://cis.org/ImmigrantCrime</a><p>
+От 25 до 50% членов банд в США - нелегальные иммигранты.
+</p><a href="">http://cis.org/ImmigrantCrime</a><p>
+Иммигранты в четыре раза чаще жителей США не оказываются способны закончить старшую школу.
+</p><a href="">http://cis.org/ImmigrantCrime</a><p>
+Латиноамериканцы-нелегалы составляют 5% американского населения, но 25% наркоторговцев.
+</p><a href="">http://cis.org/ImmigrantCrime</a><p>
+Латиноамериканская иммиграция сместила афроамериканцев и повысила уровень преступности среди черных. 
+</p><a href="">http://sf.oxfordjournals.org/content/88/3/1393.abstract</a><p>
+Латиноамериканцы в 19 раз чаще белых оказываются членами банд. 
+</p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
+Латиноамериканцы в три раза чаще белых оказываются в тюрьме. 
+</p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
+Латиноамериканцы в три раза чаще белых совершают насильственные преступления.
+</p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a><p>
+Один из четырех американских заключенных - нелегал. 
+</p><a href="">http://cis.org/ImmigrantCrime</a><p>
+В США на долю латиноамериканцев без гражданства приходится большинство должностых преступлений. 
+ </p><a href="">http://cis.org/ImmigrantCrime</a><p>
+Латиноамериканцы на 60% чаще отказываются от собственных детей. 
+</p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a><p>
+В Нью-Йорке 45% арестованных насильников - латиноамериканцы. </p><a href="">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=8</a><p>
+Процент латиноамериканцев с дипломом колледжа очень низок и не менялся в течение двух десятилетий. 
+</p><a href="">http://www.city-journal.org/2008/eon1008hm.html</a><p>
+Половина латиноамериканцев бросает школу, и эта цифра не менялась в течение поколений. 
+</p><a href="">http://www.city-journal.org/2008/eon1008hm.html</a><p>
+Из-за демографических изменений и низкого процента выпускников колледжей среди латиноамериканцев в Калифорнии снизился средний доход на душу населения.
+</p><a href="">http://www.city-journal.org/2008/eon1008hm.html</a><p>
+50% детей латиноамериканцев рождаются вне брака и этот процент быстро растет. 
+</p><a href="">http://www.city-journal.org/2008/eon1008hm.html</a>
+
 
 
                       
