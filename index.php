@@ -98,10 +98,10 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-7">Латиноамериканцы</a>
 
                     </li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Индейцы</a>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-8">Американские индейцы</a>
 
                     </li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Прочие группы</a>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Races-9">Прочие группы</a>
 
                     </li>
                 </ul>
@@ -1517,7 +1517,7 @@ function validateContact() {
                                 Примерно каждая третья кореянка делала пластическую операцию.
                             </p><a href="">http://www.newyorker.com/magazine/2015/03/23/about-face</a>
                             <p>
-                                Половина молодых кореянок делала платическую операцию.
+                                Половина молодых кореянок делала пластическую операцию.
                             </p><a href="">http://www.newyorker.com/magazine/2015/03/23/about-face</a>
                             <p>
                                 Корейцы более озабочены физической привлекательностью, чем жители Запада.
@@ -1592,8 +1592,75 @@ function validateContact() {
                             <p>
                                 50% детей латиноамериканцев рождаются вне брака и этот процент быстро растет.
                             </p><a href="">http://www.city-journal.org/2008/eon1008hm.html</a>
+                            
+                            <h3 id="Races-8">Американские индейцы</h3>
+                            <p>В Канаде американские индейцы составляют лишь 3% населения, но 18% заключенных.
+                            </p><a href="">http://www.csc-scc.gc.ca/research/r144-eng.shtml</a>
+                            <p>
+                                Американские индейцы более склонны к психопатии и менее способны к эмпатии, чем любая другая раса.
+                            </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            <p>
+                                Американские индейцы чаще, чем представители других рас, совершают насильственные преступления.
+                            </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            <p>
+                                Американские индейцы в два раз чаще белых бьют своих жен.
+                            </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            <p>
+                                Американские индецы остаются безработными чем любая другая раса.
+                            </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            <p>
+                                Американские индейцы в четыре раза чаще белых убивают собственных новорожденных детей.
+                            </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
 
+                            
+                            <h3 id="Races-9">Прочие группы</h3>
+                            <p>Аборигены Австралии составляют только 2% населения, но и 27% заключенных.
+                            </p><a href="">http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/4517.0~2014~Main%20Features~Prisoner%20characteristics,%20Australia~4</a>
+                            <p>
+                                Маори составляют 15% населения Новой Зеландии, но и 50% заключенных.
+                            </p><a href="">http://www.state.gov/g/drl/rls/hrrpt/2004/41654.htm</a>
+                            <p>
+                                Цыгане составляют всего 0.1% населения Великобритании, но и 5% заключенных.
+                            </p><a href="">http://www.theguardian.com/society/2014/mar/11/gypsies-roma-travellers-over-represented-jails-england-wales-prisons</a>
+                            <p>
+                                В колледжах Лиги Плюща учится чрезмерное, в сравнении с их академическими достижениями, количество евреев.
+                            </p><a href="">http://www.theamericanconservative.com/articles/the-myth-of-american-meritocracy/</a>
+                            <p>
+                                75-80% торговцев произведениями искусства, кураторов и критиков &mdash; евреи.
+                            </p><a href="">http://www.amazon.com/Pardes-Israel-Shamir/dp/1419606018</a>
+                            <p>
+                                У евреев ашкенази наибольшее количество опасных для здоровья аллелей (различные формы одного и того же гена, расположенные в одинаковых участках (локусах) гомологичных хромосом &mdash; Википедия).
 
+                            </p><a href="">http://www.nature.com/ejhg/journal/v12/n5/full/5201156a.html</a>
+                            <p>
+                                2.3% всех евреев рождены от близкoродственных браков, 7% среднеазиатских евреев.
+                            </p><a href="">http://www.ncbi.nlm.nih.gov/pubmed/14742164</a>
+                            <p>
+                                Средий IQ цыган ниже 80.
+                            </p><a href="">http://www.vdare.com/articles/indians-arent-that-intelligent-on-average</a>
+                            <p>
+                                70% “ирландских путешественников”, также известных как цыгане, безработные.
+                            </p><a href="">http://www.cso.ie/en/newsandevents/pressreleases/2004pressreleases/2002censusofpopulationvolume8-irishtravellercommunity/</a>
+                            <p>
+                                Цыгане составляют всего 0.5% населения Ирландии, но 4.4% случаев отказа от ребенка.
+                            </p><a href="">http://www.independent.ie/breaking-news/irish-news/immigrant-parent-families-make-up-264-of-child-protection-cases-says-report-34245482.html</a>
+                            <p>
+                                Браки между кузенами и браки дяди и племянницы широко распространены среди евреев сефардов. </p><a href="">http://www.pnas.org/content/107/suppl_1/1779.full</a>
+                            <p>
+                                Средний IQ американских индейцев &mdash; 87%.
+                            </p><a href="">http://www.vdare.com/articles/indians-arent-that-intelligent-on-average</a>
+                            <p>
+                                В Британии цыгане составляют всего 0.1% населения, но 10% несовершеннолетних преступников.
+                            </p><a href="">http://www.standard.co.uk/news/crime/hugely-disproportionate-number-of-gypsy-inmates-in-youth-prisons-a3137441.html</a>
+                            <p>
+                                Евреи составляют 10% студентов Принстона, непропорциональность 500%. </p><a href="">http://www.nytimes.com/1999/06/02/nyregion/princeton-puzzle-where-have-jewish-students-gone.html</a>
+                            <p>
+                                Евреи составляют от одной четверти до одной трети студентов колледжей Лиги Плюща. </p><a href="">http://www.nytimes.com/1999/06/02/nyregion/princeton-puzzle-where-have-jewish-students-gone.html</a>
+                            <p>
+                                В колледжах Лиги Плюща евреи представлены непропорционально, в то время как нац. меньшинства представлены пропорционально. </p><a href="">http://www.nytimes.com/1999/06/02/nyregion/princeton-puzzle-where-have-jewish-students-gone.html</a>
+                            <p>
+                                В 1934 г. 38.5% старших офицеров госбезопасности были евреями. (Существуют общедоступные доказательства, что 80% всей советской верхушки были евреями. Будем дополнять. &mdash; прим. перевод.)
+                            </p><a href="">http://www.ynetnews.com/articles/0,7340,L-3342999,00.html</a>
                             
 
                         </div>
