@@ -2,7 +2,6 @@
 <html lang="ru">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Подборка научных, статистически доказанных и общеизвестных утверждений для взрыва либеральных мозгов.">
@@ -12,11 +11,6 @@
     <title>Это факт.</title>
 
     <link href="style.css" rel="stylesheet">
-    <link href="css/scrolling-nav.css" rel="stylesheet">
-	
-	<style>
-		</style>
-
 </head>
 
 <body id="mainNav">
@@ -29,8 +23,6 @@
         <label class="send-f" for="modal-2">Прислать факт</label>
         <label class="send-x" for="modal-1">Прислать опровержение</label>
         <a class="send-x" href="#">Прочти меня</a>
-	
-		
     </header>
 
     <div class="sidebar-mask"></div>
@@ -387,674 +379,674 @@
 
                             <p>
                                 62% канадских мусульман хотят жить при законе шариата.
-                            </p><a href="">http://www.torontosun.com/2011/11/01/strong-support-for-shariah-in-canada</a>
+                            </p><a href="http://www.torontosun.com/2011/11/01/strong-support-for-shariah-in-canada">http://www.torontosun.com/2011/11/01/strong-support-for-shariah-in-canada</a>
                             <p>
 
                                 Один из трех канадских мусульман отказывается осуждать Аль Каеду.
-                            </p><a href="">http://www.torontosun.com/2011/11/01/strong-support-for-shariah-in-canada</a>
+                            </p><a href="http://www.torontosun.com/2011/11/01/strong-support-for-shariah-in-canada">http://www.torontosun.com/2011/11/01/strong-support-for-shariah-in-canada</a>
                             <p>
 
                                 В 2008-м году 80% всей иммиграции из Сомали в США были незаконными.
-                            </p><a href="">http://www.startribune.com/new-somali-refugee-arrivals-in-minnesota-are-increasing/281197521/#1</a>
+                            </p><a href="http://www.startribune.com/new-somali-refugee-arrivals-in-minnesota-are-increasing/281197521/#1">http://www.startribune.com/new-somali-refugee-arrivals-in-minnesota-are-increasing/281197521/#1</a>
                             <p>
 
                                 Один из четырех молодых американских мусульман считает терроризм обоснованным.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 Один из двадцати американских мусульман одобряет деятельность Аль Каеды.
-                            </p><a href="">http://www.people-press.org/2011/08/30/muslim-americans-no-signs-of-growth-in-alienation-or-support-for-extremism/</a>
+                            </p><a href="http://www.people-press.org/2011/08/30/muslim-americans-no-signs-of-growth-in-alienation-or-support-for-extremism/">http://www.people-press.org/2011/08/30/muslim-americans-no-signs-of-growth-in-alienation-or-support-for-extremism/</a>
                             <p>
 
                                 8% американских мусульман верят, что убеждения Аль Каеды соответствуют нормам Ислама.
-                            </p><a href="">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=5</a>
+                            </p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=5">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=5</a>
                             <p>
 
                                 9% американских мусульман верят, что убеждения ИГИЛ соответствуют нормам Ислама.
-                            </p><a href="">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=5</a>
+                            </p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=5">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=5</a>
                             <p>
 
                                 11% американских мусульман считают, что закон шариата должен быть установлен по всему Миру посредством Джихада.
-                            </p><a href="">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=2</a>
+                            </p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=2">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=2</a>
                             <p>
 
                                 33% американских мусульман считают, что закон шариата превыше американской Конституции.
-                            </p><a href="">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=2</a>
+                            </p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=2">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=2</a>
                             <p>
 
                                 29% американских мусульман считают, что насилие в адрес оскорбляющих Ислам допустимо.
-                            </p><a href="">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=3</a>
+                            </p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=3<">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=3</a>
                             <p>
 
                                 Каждый четвертый американский мусульманин верит, что насилие против американцев это правомерная часть Джихада.
-                            </p><a href="">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=3</a>
+                            </p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=3">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=3</a>
                             <p>
 
                                 16% американских мусульман определяют Джихад как “жестокую войну против всех, неверующих в Ислам”.
-                            </p><a href="">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=4</a>
+                            </p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=4">http://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/150612-CSP-Polling-Company-Nationwide-Online-Survey-of-Muslims-Topline-Poll-Data.pdf#page=4</a>
                             <p>
 
                                 Иммиграция мусульман на Запад увеличивает терроризм и радикализацию.
-                            </p><a href="">http://www.clarionproject.org/analysis/13-percent-syrian-refugees-support-isis-poll</a>
+                            </p><a href="http://www.clarionproject.org/analysis/13-percent-syrian-refugees-support-isis-poll">http://www.clarionproject.org/analysis/13-percent-syrian-refugees-support-isis-poll</a>
                             <p>
 
                                 Перемещение беженцев на Запад в 12 раз дороже содержания их в родных странах.
-                            </p><a href="">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
+                            </p><a href="http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
                             <p>
 
                                 Иммигранты из арабских стран на Запад имеют более высокий процент близкородственных браков (инбридинга).
-                            </p><a href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419292/</a>
+                            </p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419292/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419292/</a>
                             <p>
 
                                 Иммиграция из арабских стран в Европу и Северную Америку повысила процент инбридинга.
-                            </p><a href="">http://www.pnas.org/content/107/suppl_1/1779.full</a>
+                            </p><a href="http://www.pnas.org/content/107/suppl_1/1779.full">http://www.pnas.org/content/107/suppl_1/1779.full</a>
                             <p>
 
                                 Чем чаще американцам приходится иметь дело с мусульманами, тем они более “исламофобны”.
-                            </p><a href="">http://www.nytimes.com/2015/12/13/opinion/sunday/the-rise-of-hate-search.html</a>
+                            </p><a href="http://www.nytimes.com/2015/12/13/opinion/sunday/the-rise-of-hate-search.html">http://www.nytimes.com/2015/12/13/opinion/sunday/the-rise-of-hate-search.html</a>
                             <p>
 
                                 Содержание одного беженца с Ближнего Востока в США обходится в 64 370 дол. за пять лет.
-                            </p><a href="">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
+                            </p><a href="http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
                             <p>
 
                                 90% иммигрантов с Ближнего Востока в США не платят налоги и получают деньги от правительства.
-                            </p><a href="">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
+                            </p><a href="http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
                             <p>
 
                                 91.4% беженцев с Ближнего Востока в США получают талоны на еду.
-                            </p><a href="">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
+                            </p><a href="http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
 
 
                             <h3 id="ArIs-3">в Европе (общее)</h3>
 
                             <p>
                                 65% европейских мусульман считают, что законы шариата превыше законов европейских стран.
-                            </p><a href="">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=2</a>
+                            </p><a href="https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=2">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=2</a>
                             <p>
 
                                 Европейские мусульмане в 7.5 раз чаще могут оказаться фундаменталистами, чем христиане.
-                            </p><a href="">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=5</a>
+                            </p><a href="https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=5">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=5</a>
                             <p>
 
                                 45% европейских мусульман считают, что евреям нельзя верить.
-                            </p><a href="">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=3</a>
+                            </p><a href="https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=3">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=3</a>
                             <p>
 
                                 60% европейских мусульман откровенно гомофобны вне зависимости от их социального статуса или образования.
-                            </p><a href="">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=3</a>
+                            </p><a href="https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=3">https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf#page=3</a>
                             <p>
 
                                 Дети мусульманских иммигрантов в Европу заявляют о большей дискриминации, чем их родители.
-                            </p><a href="">http://www.nytimes.com/2015/09/16/business/international/europe-must-plan-for-immigration-juggernaut.html?_r=0</a>
+                            </p><a href="http://www.nytimes.com/2015/09/16/business/international/europe-must-plan-for-immigration-juggernaut.html?_r=0">http://www.nytimes.com/2015/09/16/business/international/europe-must-plan-for-immigration-juggernaut.html?_r=0</a>
                             <p>
 
                                 Мигранты вдвое чаще белых европейцев являются безработными.
-                            </p><a href="">http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/</a>
+                            </p><a href="http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/">http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/</a>
                             <p>
 
                                 Мигранты в два раза чаще белых европейцев бросают школу.
-                            </p><a href="">http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/</a>
+                            </p><a href="http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/">http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/</a>
                             <p>
 
                                 Одна из основных предпосылок преступности среди мигрантов это преобладание Ислама в их родной стране.
-                            </p><a href="">http://openpsych.net/ODP/wp-content/uploads/2014/10/Kirkegaard2014CrimeIncomeAndEmploymentAmongImmigrantGroupsInNorwayAndFinland.pdf#page=1</a>
+                            </p><a href="http://openpsych.net/ODP/wp-content/uploads/2014/10/Kirkegaard2014CrimeIncomeAndEmploymentAmongImmigrantGroupsInNorwayAndFinland.pdf#page=1">http://openpsych.net/ODP/wp-content/uploads/2014/10/Kirkegaard2014CrimeIncomeAndEmploymentAmongImmigrantGroupsInNorwayAndFinland.pdf#page=1</a>
                             <p>
 
                                 Поддержка терроризма среди мусульман в Европе увеличивается с каждым новым поколением.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 13% сирийских “беженцев” открыто поддерживают ИГИЛ.
-                            </p><a href="">http://www.clarionproject.org/analysis/13-percent-syrian-refugees-support-isis-poll</a>
+                            </p><a href="http://www.clarionproject.org/analysis/13-percent-syrian-refugees-support-isis-poll">http://www.clarionproject.org/analysis/13-percent-syrian-refugees-support-isis-poll</a>
                             <p>
 
                                 Более 20% мусульманских мигрантов, въезжающих в Европу, могут иметь отношения со связанными с ИГИЛ группами.
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html">http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html</a>
                             <p>
 
                                 75%-80% въезжающих в Европу “беженцев” это мужчины призывного возраста с хорошим здоровьем.
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html">http://www.americanthinker.com/articles/2015/11/put_refugees_in_fema_camps.html</a>
                             <p>
 
                                 Двое из каждых ста сирийских мигрантов незаконно ввезенных в Европу это обученные в ИГИЛ джихадисты.
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/coming_to_a_city_near_you_islamic_terrorism.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/coming_to_a_city_near_you_islamic_terrorism.html">http://www.americanthinker.com/articles/2015/11/coming_to_a_city_near_you_islamic_terrorism.html</a>
                             <p>
 
                                 Цветные мигранты в Европу ответственны за один из трех новых случаев заражения ВИЧ.
-                            </p><a href="">http://www.americanthinker.com/blog/2015/11/muslim_invaders_spreading_hiv_across_europe_at_an_alarming_rate.html</a>
+                            </p><a href="http://www.americanthinker.com/blog/2015/11/muslim_invaders_spreading_hiv_across_europe_at_an_alarming_rate.html">http://www.americanthinker.com/blog/2015/11/muslim_invaders_spreading_hiv_across_europe_at_an_alarming_rate.html</a>
 
                             <h3 id="ArIs-4">в Германии</h3>
                             <p>
                                 Мигранты очень редко посещают высшие учебные заведения Германии.
-                            </p><a href="">http://www.spiegel.de/international/germany-s-immigrants-integration-in-theory-alienation-in-practice-a-433006.html</a>
+                            </p><a href="http://www.spiegel.de/international/germany-s-immigrants-integration-in-theory-alienation-in-practice-a-433006.html">http://www.spiegel.de/international/germany-s-immigrants-integration-in-theory-alienation-in-practice-a-433006.html</a>
                             <p>
 
                                 Решение о приеме мигрантов обойдется Германии минимум в 11 миллиардов долларов.
-                            </p><a href="">http://www.nbcnews.com/storyline/europes-border-crisis/refugee-crisis-unease-mixes-empathy-germany-n433106</a>
+                            </p><a href="http://www.nbcnews.com/storyline/europes-border-crisis/refugee-crisis-unease-mixes-empathy-germany-n433106">http://www.nbcnews.com/storyline/europes-border-crisis/refugee-crisis-unease-mixes-empathy-germany-n433106</a>
                             <p>
 
                                 30% “сирийских беженцев” в Германии проникли в страну незаконно.
-                            </p><a href="">http://www.telegraph.co.uk/news/worldnews/europe/germany/11891219/Refugee-crisis-Many-migrants-falsely-claim-to-be-Syrians-Germany-says-as-EU-tries-to-ease-tensions.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/11891219/Refugee-crisis-Many-migrants-falsely-claim-to-be-Syrians-Germany-says-as-EU-tries-to-ease-tensions.html">http://www.telegraph.co.uk/news/worldnews/europe/germany/11891219/Refugee-crisis-Many-migrants-falsely-claim-to-be-Syrians-Germany-says-as-EU-tries-to-ease-tensions.html</a>
                             <p>
 
                                 Лишь один из десяти мусульманских мигрантов прибывших в Германию способен устроиться на работу.
-                            </p><a href="">http://www.theguardian.com/world/2015/sep/13/how-much-longer-can-germany-keep-can-their-doors-to-refugees</a>
+                            </p><a href="http://www.theguardian.com/world/2015/sep/13/how-much-longer-can-germany-keep-can-their-doors-to-refugees">http://www.theguardian.com/world/2015/sep/13/how-much-longer-can-germany-keep-can-their-doors-to-refugees</a>
                             <p>
 
                                 Один из восьми немецких мусульман считат, что терроризм обоснован.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 Германии станет мусульмано-турецкой страной к 2050 году, если демографический тренд не изменится.
-                            </p><a href="">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
+                            </p><a href="http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
                             <p>
 
                                 Из трех миллионов турков, прибывших в Германию по “рабочей визе”, 80% теперь живут на пособие.
-                            </p><a href="">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
+                            </p><a href="http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
                             <p>
 
                                 Прием одного беженца стоит Германии 14 500 дол. в год.
-                            </p><a href="">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
+                            </p><a href="http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
                             <p>
 
                                 Один из пятидесяти немцев поддерживает ИГИЛ.
-                            </p><a href="">https://www.rt.com/news/181076-isis-islam-militans-france/</a>
+                            </p><a href="https://www.rt.com/news/181076-isis-islam-militans-france/">https://www.rt.com/news/181076-isis-islam-militans-france/</a>
                             <p>
 
                                 80% турков-мусульман Германии безработные и живут на пособие.
-                            </p><a href="">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
+                            </p><a href="http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
                             <p>
 
                                 70% детей турков Германии не имеют образования выше средней школы.
-                            </p><a href="">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
+                            </p><a href="http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield">http://www.frontpagemag.com/point/183720/80-turkish-muslim-settlers-germany-live-welfare-daniel-greenfield</a>
 
 
                             <h3 id="ArIs-5">в Великобритании</h3>
                             <p>
                                 Один из двенадцати британских школьников мусульманин, и мусульманское население будет продолжать расти на протяжении “многих десятилетий”.
-                            </p><a href="">http://www.telegraph.co.uk/news/religion/11406700/Number-of-Muslim-children-in-Britain-doubles-in-a-decade.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/religion/11406700/Number-of-Muslim-children-in-Britain-doubles-in-a-decade.html">http://www.telegraph.co.uk/news/religion/11406700/Number-of-Muslim-children-in-Britain-doubles-in-a-decade.html</a>
                             <p>
 
                                 Один из трех британских мусульман даже не говорит по-английски.
-                            </p><a href="">http://www.telegraph.co.uk/news/religion/11406700/Number-of-Muslim-children-in-Britain-doubles-in-a-decade.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/religion/11406700/Number-of-Muslim-children-in-Britain-doubles-in-a-decade.html">http://www.telegraph.co.uk/news/religion/11406700/Number-of-Muslim-children-in-Britain-doubles-in-a-decade.html</a>
                             <p>
 
                                 55% британских пакистанцев женаты на своих кузинах.
-                            </p><a href="">http://news.bbc.co.uk/2/hi/programmes/newsnight/4442010.stm</a>
+                            </p><a href="http://news.bbc.co.uk/2/hi/programmes/newsnight/4442010.stm">http://news.bbc.co.uk/2/hi/programmes/newsnight/4442010.stm</a>
                             <p>
 
                                 Пакистанцы составляют лишь 3% населения Великобритании, но также 33% всех генетически обусловленных заболеваний у детей вследствие близкородственных браков.
-                            </p><a href="">http://news.bbc.co.uk/2/hi/programmes/newsnight/4442010.stm</a>
+                            </p><a href="http://news.bbc.co.uk/2/hi/programmes/newsnight/4442010.stm">http://news.bbc.co.uk/2/hi/programmes/newsnight/4442010.stm</a>
                             <p>
 
                                 Все доступные исследования утверждают, что неевропейские мигранты обходятся бюджету Британии в сумму около 10 млрд. дол. в год.
-                            </p><a href="">http://www.migrationobservatory.ox.ac.uk/briefings/fiscal-impact-immigration-uk#kp3</a>
+                            </p><a href="http://www.migrationobservatory.ox.ac.uk/briefings/fiscal-impact-immigration-uk#kp3">http://www.migrationobservatory.ox.ac.uk/briefings/fiscal-impact-immigration-uk#kp3</a>
                             <p>
 
                                 Британские мусульмане в два раза чаще христиан остаются безработными.
-                            </p><a href="">http://www.ons.gov.uk/ons/dcp171776_310454.pdf</a>
+                            </p><a href="http://www.ons.gov.uk/ons/dcp171776_310454.pdf">http://www.ons.gov.uk/ons/dcp171776_310454.pdf</a>
                             <p>
 
                                 Британия станет мусульманской страной к 2050 году, если демографический тренд не изменится.
-                            </p><a href="">http://www.thecommentator.com/article/3770/the_islamic_future_of_britain</a>
+                            </p><a href="http://www.thecommentator.com/article/3770/the_islamic_future_of_britain">http://www.thecommentator.com/article/3770/the_islamic_future_of_britain</a>
                             <p>
 
                                 Как минимум 85 юридически значимых судов шариата действуют в Великобритании.
-                            </p><a href="">http://www.civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf#page=85</a>
+                            </p><a href="http://www.civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf#page=85">http://www.civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf#page=85</a>
                             <p>
 
                                 32% мусульманских студентов Великобритании считают, что убийство во имя религии является приемлемым.
-                            </p><a href="">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
                             <p>
 
                                 28% британских мусульман хотели бы, чтобы Великобритании стала страной фундаменталистского Ислама.
-                            </p><a href="">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
+                            </p><a href="http://www.cbsnews.com/news/many-british-muslims-put-islam-first/">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
                             <p>
 
                                 68% британских мусульман поддерживают уголовное преследование критики Ислама.
-                            </p><a href="">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
+                            </p><a href="http://www.cbsnews.com/news/many-british-muslims-put-islam-first/">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
                             <p>
 
                                 Трое из четырех британских мусульман поддерживают уголовное преследование за изображения пророка Мохаммеда.
-                            </p><a href="">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
+                            </p><a href="http://www.cbsnews.com/news/many-british-muslims-put-islam-first/">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
                             <p>
 
                                 9% британских мусульман считают себя бескомпромиссными исламистами.
-                            </p><a href="">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
+                            </p><a href="http://www.cbsnews.com/news/many-british-muslims-put-islam-first/">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
                             <p>
 
                                 Только 3% британских мусульман поддерживают свободу слова.
-                            </p><a href="">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
+                            </p><a href="http://www.cbsnews.com/news/many-british-muslims-put-islam-first/">http://www.cbsnews.com/news/many-british-muslims-put-islam-first/</a>
                             <p>
 
                                 Ни один из пятисот опрашиваемых британских мусульман не считает гомосексуальность морально приемлемой.
-                            </p><a href="">http://www.theguardian.com/uk/2009/may/07/muslims-britain-france-germany-homosexuality</a>
+                            </p><a href="http://www.theguardian.com/uk/2009/may/07/muslims-britain-france-germany-homosexuality">http://www.theguardian.com/uk/2009/may/07/muslims-britain-france-germany-homosexuality</a>
                             <p>
 
                                 Один из шестнадцати молодых британских мусульман считает “убийства чести” приемлемыми.
-                            </p><a href="">http://www.dailymail.co.uk/news/article-2117003/Honour-violence-acceptable-say-young-British-Asians.html</a>
+                            </p><a href="http://www.dailymail.co.uk/news/article-2117003/Honour-violence-acceptable-say-young-British-Asians.html">http://www.dailymail.co.uk/news/article-2117003/Honour-violence-acceptable-say-young-British-Asians.html</a>
                             <p>
 
                                 18% молодых британских мусульман считают “кровную вражду” приемлемой.
-                            </p><a href="">http://www.dailymail.co.uk/news/article-2117003/Honour-violence-acceptable-say-young-British-Asians.html</a>
+                            </p><a href="http://www.dailymail.co.uk/news/article-2117003/Honour-violence-acceptable-say-young-British-Asians.html">http://www.dailymail.co.uk/news/article-2117003/Honour-violence-acceptable-say-young-British-Asians.html</a>
                             <p>
 
                                 Мусульмане составляют лишь 5% населения, но 20% всего контингента британских тюрем.
-                            </p><a href="">http://metro.co.uk/2012/12/07/one-in-five-young-men-in-our-jails-is-a-muslim-3305639/</a>
+                            </p><a href="http://metro.co.uk/2012/12/07/one-in-five-young-men-in-our-jails-is-a-muslim-3305639/">http://metro.co.uk/2012/12/07/one-in-five-young-men-in-our-jails-is-a-muslim-3305639/</a>
                             <p>
 
                                 Один из пяти подозреваемых в изнасиловании или убийстве является мигрантом.
-                            </p><a href="">http://www.thesun.co.uk/sol/homepage/news/4437163/1-in-5-rape-and-murder-suspects-in-England-and-Wales-are-migrant.html</a>
+                            </p><a href="http://www.thesun.co.uk/sol/homepage/news/4437163/1-in-5-rape-and-murder-suspects-in-England-and-Wales-are-migrant.html">http://www.thesun.co.uk/sol/homepage/news/4437163/1-in-5-rape-and-murder-suspects-in-England-and-Wales-are-migrant.html</a>
                             <p>
 
                                 Иммигранты-европейцы улучшают экономическую обстановку Великобритании, тогда как содержание цветных мигрантов стоит денег.
-                            </p><a href="">http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12181/abstract</a>
+                            </p><a href="http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12181/abstract">http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12181/abstract</a>
                             <p>
 
                                 30% британских мусульман не считают себя британцами.
-                            </p><a href="">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
                             <p>
 
                                 4% британских мусульман живут в бесплатном жилье.
-                            </p><a href="">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
                             <p>
 
                                 Один из пяти британских мусульман утверждает, что он инвалид &mdash; это наивысший процент среди всех этнических или религиозных групп.
-                            </p><a href="">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html">http://www.telegraph.co.uk/news/wikileaks-files/london-wikileaks/8304838/UK-MUSLIM-DEMOGRAPHICS-C-RE8-02527.html</a>
                             <p>
 
                                 40% британских мусульман хотят жить при законе шариата.
-                            </p><a href="">http://www.telegraph.co.uk/news/uknews/1510866/Poll-reveals-40pc-of-Muslims-want-sharia-law-in-UK.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/uknews/1510866/Poll-reveals-40pc-of-Muslims-want-sharia-law-in-UK.html">http://www.telegraph.co.uk/news/uknews/1510866/Poll-reveals-40pc-of-Muslims-want-sharia-law-in-UK.html</a>
                             <p>
 
                                 Один из десяти британских мусульман поддерживает “убийства чести”.
-                            </p><a href="">http://news.bbc.co.uk/2/hi/uk_news/5311244.stm</a>
+                            </p><a href="http://news.bbc.co.uk/2/hi/uk_news/5311244.stm">http://news.bbc.co.uk/2/hi/uk_news/5311244.stm</a>
                             <p>
 
                                 Один из пяти британских мусульман поддерживает террористическую атаку в Лондоне 7 июля 2005.
-                            </p><a href="">http://www.telegraph.co.uk/news/uknews/1510866/Poll-reveals-40pc-of-Muslims-want-sharia-law-in-UK.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/uknews/1510866/Poll-reveals-40pc-of-Muslims-want-sharia-law-in-UK.html">http://www.telegraph.co.uk/news/uknews/1510866/Poll-reveals-40pc-of-Muslims-want-sharia-law-in-UK.html</a>
                             <p>
 
                                 17000 преступлений по “законам чести” совершаются в Великобритании каждый год.
-                            </p><a href="">http://www.independent.co.uk/news/uk/home-news/a-question-of-honour-police-say-17000-women-are-victims-every-year-780522.html</a>
+                            </p><a href="http://www.independent.co.uk/news/uk/home-news/a-question-of-honour-police-say-17000-women-are-victims-every-year-780522.html">http://www.independent.co.uk/news/uk/home-news/a-question-of-honour-police-say-17000-women-are-victims-every-year-780522.html</a>
                             <p>
 
                                 Количество преступлений по “законам чести” в Великобритании удваивается каждый год.
-                            </p><a href="">http://www.telegraph.co.uk/news/uknews/crime/6835482/Tulay-Goren-murder-honour-crimes-doubling-every-year-figures-show.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/uknews/crime/6835482/Tulay-Goren-murder-honour-crimes-doubling-every-year-figures-show.html">http://www.telegraph.co.uk/news/uknews/crime/6835482/Tulay-Goren-murder-honour-crimes-doubling-every-year-figures-show.html</a>
                             <p>
 
                                 6% британских мусульман откровенно “нелояльны” Великобритании.
-                            </p><a href="">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
+                            </p><a href="http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
                             <p>
 
                                 24% британских мусульман считают, что насилие в адрес тех, кто публикует изображения пророка Мохаммеда, правомерно.
-                            </p><a href="">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
+                            </p><a href="http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
                             <p>
 
                                 45% британских мусульман верят, что проповедники, призывающие к войне против Запада, действуют по общепринятым законам Ислама.
-                            </p><a href="">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
+                            </p><a href="http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
                             <p>
 
                                 7% британских мусульман не должны быть обязаны подчиняться британским законам.
-                            </p><a href="">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
+                            </p><a href="http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/">http://comres.co.uk/polls/bbc-radio-4-today-muslim-poll/</a>
                             <p>
 
                                 Около полутора миллионов британских мусульман могут поддерживать ИГИЛ.
-                            </p><a href="">http://www.mirror.co.uk/news/uk-news/muslim-leader-isis-supporting-brits-disenfranchised-6018357</a>
+                            </p><a href="http://www.mirror.co.uk/news/uk-news/muslim-leader-isis-supporting-brits-disenfranchised-6018357">http://www.mirror.co.uk/news/uk-news/muslim-leader-isis-supporting-brits-disenfranchised-6018357</a>
                             <p>
 
                                 21% британских мусульман верят, что атаки террористов-смертников против вооруженных сил могут быть оправданы.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
                             <p>
 
                                 16%-м британских мусульман безразлично, если член их семьи присоединится к Аль Каеде. А 2% гордились бы этим.
-                            </p><a href="">https://web.archive.org/web/20070703235844/http://www.populuslimited.com/poll_summaries/2006_07_04_Times_ITV.htm</a>
+                            </p><a href="https://web.archive.org/web/20070703235844/http://www.populuslimited.com/poll_summaries/2006_07_04_Times_ITV.htm">https://web.archive.org/web/20070703235844/http://www.populuslimited.com/poll_summaries/2006_07_04_Times_ITV.htm</a>
                             <p>
 
                                 7% британских мусульман считают, что атаки террористов-смертников в Великобритании могут быть оправданными.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=43</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=43">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=43</a>
                             <p>
 
                                 5% британских мусульман считают, что атаки террористов-смертников против Великобритании оправданы.
-                            </p><a href="">http://image.guardian.co.uk/sys-files/Politics/documents/2005/07/26/Muslim-Poll.pdf#page=10</a>
+                            </p><a href="http://image.guardian.co.uk/sys-files/Politics/documents/2005/07/26/Muslim-Poll.pdf#page=10">http://image.guardian.co.uk/sys-files/Politics/documents/2005/07/26/Muslim-Poll.pdf#page=10</a>
                             <p>
 
                                 18% британских мусульман считают, что мусульманская община сделала слишком много, чтобы интегрироваться в британское общество.
-                            </p><a href="">http://image.guardian.co.uk/sys-files/Politics/documents/2005/07/26/Muslim-Poll.pdf#page=20</a>
+                            </p><a href="http://image.guardian.co.uk/sys-files/Politics/documents/2005/07/26/Muslim-Poll.pdf#page=20">http://image.guardian.co.uk/sys-files/Politics/documents/2005/07/26/Muslim-Poll.pdf#page=20</a>
                             <p>
 
                                 Один из трех молодых британских мусульман считает, что терроризм обоснован.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 4% британских мусульман не верят в реальность Холокоста (как и 100% нашей редакции &mdash; прим. перевод.).
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=27</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=27">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=27</a>
                             <p>
 
                                 Большинство британских мусульман считают, что не должны участвовать в мероприятиях памяти Холокоста.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=27</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=27">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=27</a>
                             <p>
 
                                 46% британских мусульман считают, что евреи контролируют СМИ и политику.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=28</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=28">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=28</a>
                             <p>
 
                                 37% британских мусульман считают, что британские евреи являются “законными целями” в Палестино-израильском конфликте.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=28</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=28">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=28</a>
                             <p>
 
                                 16% британских мусульман считают атаки террористов-смертников обоснованными.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=43</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=43">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=43</a>
                             <p>
 
                                 7% британских мусульман считают, что атаки террористов-смертников против гражданского населения могут быть оправданы.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
                             <p>
 
                                 13% британских мусульман считают, что атаки Аль Каеды против США обоснованы.
-                            </p><a href="">http://web.archive.org/web/20050309020147/http://www.icmresearch.co.uk/reviews/2004/guardian-muslims-march-2004.asp</a>
+                            </p><a href="http://web.archive.org/web/20050309020147/http://www.icmresearch.co.uk/reviews/2004/guardian-muslims-march-2004.asp">http://web.archive.org/web/20050309020147/http://www.icmresearch.co.uk/reviews/2004/guardian-muslims-march-2004.asp</a>
                             <p>
 
                                 11% британских мусульман считают, что атаки террористов-смертников против полиции могут быть оправданы.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
                             <p>
 
                                 9% британских мусульман считают, что атаки террористов-смертников против госслужащих могут быть оправданы.
-                            </p><a href="">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
+                            </p><a href="https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48">https://web.archive.org/web/20060226021802/http://www.populuslimited.com/pdf/2006_02_07_times.pdf#page=48</a>
                             <p>
 
                                 В городе Бирмингем только один из трех школьников белый.
-                            </p><a href="">http://www.express.co.uk/news/uk/439027/Only-one-pupil-in-three-is-white-in-Birmingham</a>
+                            </p><a href="http://www.express.co.uk/news/uk/439027/Only-one-pupil-in-three-is-white-in-Birmingham">http://www.express.co.uk/news/uk/439027/Only-one-pupil-in-three-is-white-in-Birmingham</a>
                             <p>
 
                                 38% британских мусульман считают, что иностранные мусульмане, которые разжигают ненависть, должны иметь право оставаться в Великобритании.
-                            </p><a href="">https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp</a>
+                            </p><a href="https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp">https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp</a>
                             <p>
 
                                 28% британских мусульман считают, что не несут ответственности за искоренение религиозного экстремизма.
-                            </p><a href="">https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp</a>
+                            </p><a href="https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp">https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp</a>
                             <p>
 
                                 5% британских мусульман не посчитали бы нужным сообщить, если бы знакомый мусульманин планировал теракт.
-                            </p><a href="">https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp</a>
+                            </p><a href="https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp">https://web.archive.org/web/20050809075504/http://www.icmresearch.co.uk/reviews/2005/Guardian%20-%20muslims%20july05/Guardian%20Muslims%20jul05.asp</a>
                             <p>
 
                                 27% мусульманских студентов в Великобритании находятся в конфликте между верностью Британии и верностью Исламу.
-                            </p><a href="">http://web.archive.org/web/20060510191210/http://www.fosis.org.uk/sac/FullReport.pdf#page=17</a>
+                            </p><a href="http://web.archive.org/web/20060510191210/http://www.fosis.org.uk/sac/FullReport.pdf#page=17">http://web.archive.org/web/20060510191210/http://www.fosis.org.uk/sac/FullReport.pdf#page=17</a>
                             <p>
 
                                 10% мусульманских студентов не сообщили бы о планировании теракта (еще 10% отказались ответить).
-                            </p><a href="">http://web.archive.org/web/20060510191210/http://www.fosis.org.uk/sac/FullReport.pdf#page=36</a>
+                            </p><a href="http://web.archive.org/web/20060510191210/http://www.fosis.org.uk/sac/FullReport.pdf#page=36">http://web.archive.org/web/20060510191210/http://www.fosis.org.uk/sac/FullReport.pdf#page=36</a>
                             <p>
 
                                 Мусульмане составляют 21% всей преступности среди молодежи, иммигранты в целом &mdash; 45%.
-                            </p><a href="">http://www.standard.co.uk/news/crime/hugely-disproportionate-number-of-gypsy-inmates-in-youth-prisons-a3137441.html</a>
+                            </p><a href="http://www.standard.co.uk/news/crime/hugely-disproportionate-number-of-gypsy-inmates-in-youth-prisons-a3137441.html">http://www.standard.co.uk/news/crime/hugely-disproportionate-number-of-gypsy-inmates-in-youth-prisons-a3137441.html</a>
                             <p>
 
                                 Британские мусульмане чаще вступают в ИГИЛ, чем в британскую армию.
-                            </p><a href="">http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists</a>
+                            </p><a href="http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists">http://www.nationalreview.com/article/428146/more-than-few-islamic-extremists</a>
                             <p>
 
                                 Содержание одного беженца обходится Великобритании в 24.000 фунтов стерлингов в год.
-                            </p><a href="">http://www.telegraph.co.uk/news/politics/11941580/Each-Syrian-refugee-to-cost-Britain-24000-a-year.html</a>
+                            </p><a href="http://www.telegraph.co.uk/news/politics/11941580/Each-Syrian-refugee-to-cost-Britain-24000-a-year.html">http://www.telegraph.co.uk/news/politics/11941580/Each-Syrian-refugee-to-cost-Britain-24000-a-year.html</a>
                             <p>
 
                                 73% случаев туберкулеза в Великобритании приходится на людей, родившихся за пределами страны.
-                            </p><a href="">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/360335/TB_Annual_report__4_0_300914.pdf#page=7</a>
+                            </p><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/360335/TB_Annual_report__4_0_300914.pdf#page=7">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/360335/TB_Annual_report__4_0_300914.pdf#page=7</a>
                             <p>
 
                                 80% случаев туберкулеза в Лондоне приходится на людей, родившихся за пределами Великобритании.
-                            </p><a href="">http://www.bbc.co.uk/news/uk-england-london-34637968</a>
+                            </p><a href="http://www.bbc.co.uk/news/uk-england-london-34637968">http://www.bbc.co.uk/news/uk-england-london-34637968</a>
                             <p>
 
                                 7% населения Великобритании разделяют идеи ИГИЛ.
-                            </p><a href="">https://www.rt.com/news/181076-isis-islam-militans-france/</a>
+                            </p><a href="https://www.rt.com/news/181076-isis-islam-militans-france/">https://www.rt.com/news/181076-isis-islam-militans-france/</a>
                             <p>
 
                                 В Великобритании около одного миллиона жертв изнасилования мусульманами (информация на 2015 год &mdash; прим. перевод.)
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
 
 
                             <h3 id="ArIs-6">в Швеции</h3>
                             <p>
                                 Разница в доходах между коренными шведами и иммигрантами продолжает увеличиваться.
-                            </p><a href="">http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/</a>
+                            </p><a href="http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/">http://www.theatlantic.com/magazine/archive/2015/07/closing-european-harbors/395321/</a>
                             <p>
 
                                 25% преступлений совершается иммигрантами, и еще 20% &mdash; детьми иммигрантов.
-                            </p><a href="">http://www.thelocal.se/20051214/2683</a>
+                            </p><a href="http://www.thelocal.se/20051214/2683">http://www.thelocal.se/20051214/2683</a>
                             <p>
 
                                 Швеция &mdash; “столица изнасилований” Европы, в основном из-за иммиграции.
-                            </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
+                            </p><a href="http://www.gatestoneinstitute.org/5195/sweden-rape">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
                             <p>
 
                                 85% насильников в Швеции &mdash; мигранты.
-                            </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
+                            </p><a href="http://www.gatestoneinstitute.org/5195/sweden-rape">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
                             <p>
 
                                 Североафриканские мигранты совершают изнасилования в 23 раза чаще, чем коренные шведы.
-                            </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
+                            </p><a href="http://www.gatestoneinstitute.org/5195/sweden-rape">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
                             <p>
 
                                 Африканские мигранты в Швеции совершают изнасилования в 16 раза чаще, чем коренные шведы.
-                            </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
+                            </p><a href="http://www.gatestoneinstitute.org/5195/sweden-rape">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
                             <p>
 
                                 Иракские мигранты в Швеции совершают на 2000% изнасилований больше, чем коренные шведы.
-                            </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
+                            </p><a href="http://www.gatestoneinstitute.org/5195/sweden-rape">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
                             <p>
 
                                 16%-м шведских девочек не разрешено выбирать, за кого они выйдут замуж.
-                            </p><a href="">https://archive.is/fUVK#selection-661.160-661.256</a>
+                            </p><a href="https://archive.is/fUVK#selection-661.160-661.256">https://archive.is/fUVK#selection-661.160-661.256</a>
                             <p>
 
                                 В Швеции из-за иммиграции возросло экономическое неравенство.
-                            </p><a href="">http://www.diva-portal.org/smash/get/diva2:819935/FULLTEXT01.pdf#page=3</a>
+                            </p><a href="http://www.diva-portal.org/smash/get/diva2:819935/FULLTEXT01.pdf#page=3">http://www.diva-portal.org/smash/get/diva2:819935/FULLTEXT01.pdf#page=3</a>
                             <p>
 
                                 Одна из четырех шведок будет изнасилована в течение ее жизни (речь в статье, конечно же, идет об изнасиловании мигрантами &mdash; прим. перевод.).
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
                             <p>
 
                                 Иммигранты в Швеции зарабатывают 60% от зарплаты коренных шведов, и эта разница почти не менялась на протяжении 25 лет.
-                            </p><a href="">http://www.aei.org/publication/ikeamerica-should-the-us-really-be-more-like-sweden-a-qa-with-economist-tino-sanandaji/</a>
+                            </p><a href="http://www.aei.org/publication/ikeamerica-should-the-us-really-be-more-like-sweden-a-qa-with-economist-tino-sanandaji/">http://www.aei.org/publication/ikeamerica-should-the-us-really-be-more-like-sweden-a-qa-with-economist-tino-sanandaji/</a>
                             <p>
 
                                 Иммиграция в Швеции &mdash; это расходная статья бюджета даже в долгосрочной перспективе.
-                            </p><a href="">http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/</a>
+                            </p><a href="http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/">http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/</a>
                             <p>
 
                                 Швеции наименее эффективно удается интергировать мигрантов среди все всех стран Мира.
-                            </p><a href="">http://www.aei.org/publication/ikeamerica-should-the-us-really-be-more-like-sweden-a-qa-with-economist-tino-sanandaji/</a>
+                            </p><a href="http://www.aei.org/publication/ikeamerica-should-the-us-really-be-more-like-sweden-a-qa-with-economist-tino-sanandaji/">http://www.aei.org/publication/ikeamerica-should-the-us-really-be-more-like-sweden-a-qa-with-economist-tino-sanandaji/</a>
                             <p>
 
                                 Африканские и ближневосточные иммигранты с университетской степенью менее грамотны, чем шведы без образования.
-                            </p><a href="">http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/</a>
+                            </p><a href="http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/">http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/</a>
                             <p>
 
                                 35% иммигрантов в Швеции не обладают необходимыми навыками чтения и математики.
-                            </p><a href="">http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/</a>
+                            </p><a href="http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/">http://www.tino.us/2015/12/langtidsutredningen-ett-bombnedslag-i-invandringsdebatten/</a>
 
 
                             <h3 id="ArIs-7">в Дании</h3>
                             <p>
                                 Иммигранты в Дании в два раза чаще совершают насильственные преступления, чем коренные датчане.
-                            </p><a href="">http://www.dst.dk/pukora/epub/upload/17961/indv2013.pdf</a>
+                            </p><a href="http://www.dst.dk/pukora/epub/upload/17961/indv2013.pdf">http://www.dst.dk/pukora/epub/upload/17961/indv2013.pdf</a>
                             <p>
 
                                 64% арабских детей, рожденных в Копенгагене, являются безграмотными.
-                            </p><a href="">http://www.bkchefer.dk/uploads/File/Rockwoolfonden.pdf#page=5</a>
+                            </p><a href="http://www.bkchefer.dk/uploads/File/Rockwoolfonden.pdf#page=5">http://www.bkchefer.dk/uploads/File/Rockwoolfonden.pdf#page=5</a>
                             <p>
 
                                 Мигранты стоили бюджету Дании миллиарды долларов.
-                            </p><a href="">http://www.spiegel.de/international/europe/putting-a-price-on-foreigners-strict-immigration-laws-save-denmark-billions-a-759716.html</a>
+                            </p><a href="http://www.spiegel.de/international/europe/putting-a-price-on-foreigners-strict-immigration-laws-save-denmark-billions-a-759716.html">http://www.spiegel.de/international/europe/putting-a-price-on-foreigners-strict-immigration-laws-save-denmark-billions-a-759716.html</a>
                             <p>
 
                                 Являясь детьми близкородственных браков, дети мусульманских иммигрантов в три раза чаще детей коренных датчан оказываются умственно отсталыми.
-                            </p><a href="">http://onlinelibrary.wiley.com/doi/10.1111/ppe.12195/abstract</a>
+                            </p><a href="http://onlinelibrary.wiley.com/doi/10.1111/ppe.12195/abstract">http://onlinelibrary.wiley.com/doi/10.1111/ppe.12195/abstract</a>
                             <p>
 
                                 Более половины всех насильников в Дании &mdash; иммигранты.
-                            </p><a href="">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
+                            </p><a href="http://www.gatestoneinstitute.org/5195/sweden-rape">http://www.gatestoneinstitute.org/5195/sweden-rape</a>
                             <p>
 
                                 77% датских мусульман верят, что нужно беспрекословно следовать Корану.
-                            </p><a href="">https://www.rt.com/news/319150-denmark-muslims-koran-laws/</a>
+                            </p><a href="https://www.rt.com/news/319150-denmark-muslims-koran-laws/">https://www.rt.com/news/319150-denmark-muslims-koran-laws/</a>
                             <p>
                                 40% датских мусульман считают, что законы шариата должны быть частью законов Дании.
-                            </p><a href="">https://www.rt.com/news/319150-denmark-muslims-koran-laws/</a>
+                            </p><a href="https://www.rt.com/news/319150-denmark-muslims-koran-laws/">https://www.rt.com/news/319150-denmark-muslims-koran-laws/</a>
                             <p>
 
                                 Один из десяти датских мусульман выступает за главенство шариата в Дании.
-                            </p><a href="">https://www.rt.com/news/319150-denmark-muslims-koran-laws/</a>
+                            </p><a href="https://www.rt.com/news/319150-denmark-muslims-koran-laws/">https://www.rt.com/news/319150-denmark-muslims-koran-laws/</a>
                             <p>
 
                                 В Копенгагене 84% серьезных преступлений совершаются иммигрантами.
-                            </p><a href="">http://10news.dk/?p=1149</a>
+                            </p><a href="http://10news.dk/?p=1149">http://10news.dk/?p=1149</a>
                             <p>
 
                                 В Копенгагене 90% серьезных преступлений совершаются жителями без гражданства.
-                            </p><a href="">http://10news.dk/?p=1149</a>
+                            </p><a href="http://10news.dk/?p=1149">http://10news.dk/?p=1149</a>
                             <p>
 
                                 В среднем, содержание иммигранта-неевропейца обходится бюджету Дании в два с половиной миллиона крон (450.000 дол.)
-                            </p><a href="">http://www.fm.dk/db/filarkiv/18669/Rapport_globalisering.pdf</a>
+                            </p><a href="http://www.fm.dk/db/filarkiv/18669/Rapport_globalisering.pdf">http://www.fm.dk/db/filarkiv/18669/Rapport_globalisering.pdf</a>
                             <p>
 
                                 Половина осужденных насильников в Дании &mdash; мусульмане.
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
 
 
                             <h3 id="ArIs-8">во Франции</h3>
                             <p>
                                 Мусульмане составляют 12% населения Франции и 70% французских заключенных.
-                            </p><a href="">http://www.washingtonpost.com/wp-dyn/content/article/2008/04/28/AR2008042802560.html</a>
+                            </p><a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/04/28/AR2008042802560.html">http://www.washingtonpost.com/wp-dyn/content/article/2008/04/28/AR2008042802560.html</a>
                             <p>
 
                                 Во Франции 70% ограблений совершаются иммигрантами в первом или втором поколении.
-                            </p><a href="">http://www.atlantico.fr/decryptage/aucun-lien-entre-immigration-et-delinquance-france-peu-genereuse-avec-immigres-radiographie-quelques-cliches-bien-pensants-peau-1875772.html</a>
+                            </p><a href="http://www.atlantico.fr/decryptage/aucun-lien-entre-immigration-et-delinquance-france-peu-genereuse-avec-immigres-radiographie-quelques-cliches-bien-pensants-peau-1875772.html">http://www.atlantico.fr/decryptage/aucun-lien-entre-immigration-et-delinquance-france-peu-genereuse-avec-immigres-radiographie-quelques-cliches-bien-pensants-peau-1875772.html</a>
                             <p>
 
                                 Более 40% молодых французских мусульман считают терроризм оправданным.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 96% мигрантов, которым Франция отказала в убежище, остаются в стране.
-                            </p><a href="">http://www.thelocal.fr/20151020/france-deports-just-four-percent-of-asylum-seekers</a>
+                            </p><a href="http://www.thelocal.fr/20151020/france-deports-just-four-percent-of-asylum-seekers">http://www.thelocal.fr/20151020/france-deports-just-four-percent-of-asylum-seekers</a>
                             <p>
 
                                 Один из пяти молодых французских мусульман считает, что зачастую или иногда терроризм может быть оправдан.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 15% населения Франции разделяет идеи ИГИЛ.
-                            </p><a href="">https://www.rt.com/news/181076-isis-islam-militans-france/</a>
+                            </p><a href="https://www.rt.com/news/181076-isis-islam-militans-france/">https://www.rt.com/news/181076-isis-islam-militans-france/</a>
                             <p>
 
                                 У 40%-в французских мусульман нет друзей-французов.
-                            </p><a href="">http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100034710</a>
+                            </p><a href="http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100034710">http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100034710</a>
                             <p>
 
                                 Во Франции существует 751 мусульманское гетто.
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/paris_isis_and_the_externalization_of_evil.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/paris_isis_and_the_externalization_of_evil.html">http://www.americanthinker.com/articles/2015/11/paris_isis_and_the_externalization_of_evil.html</a>
                             <p>
 
                                 93% мусульман Франции голосуют за социализм.
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/paris_isis_and_the_externalization_of_evil.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/paris_isis_and_the_externalization_of_evil.html">http://www.americanthinker.com/articles/2015/11/paris_isis_and_the_externalization_of_evil.html</a>
 
 
                             <h3 id="ArIs-9">в Норвегии</h3>
                             <p>
                                 Второе поколение африканских и азиатских иммигрантов имеют более низкий доход, чем их родители.
-                            </p><a href="">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
+                            </p><a href="https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
                             <p>
 
                                 В Норвегии иммигранты из Африки и Юго-Восточной Азии совершают в три раза больше преступлений, чем коренные норвежцы.
-                            </p><a href="">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
+                            </p><a href="https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
                             <p>
 
                                 В Норвегии сомалийцы совершают в 4.4 раза больше изнасилований, чем коренные норвежцы.
-                            </p><a href="">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
+                            </p><a href="https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
                             <p>
 
                                 В Норвегии африканские мигранты совершают в 3 раза больше изнасилований, чем коренные норвежцы.
-                            </p><a href="">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
+                            </p><a href="https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
                             <p>
 
                                 Потомки африканских иммигрантов Норвегии на 60% чаще родителей становятся преступниками.
-                            </p><a href="">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
+                            </p><a href="https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
                             <p>
 
                                 Потомки азиатских иммигрантов Норвегии на 60% чаще родителей становятся преступниками.
-                            </p><a href="">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
+                            </p><a href="https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf">https://www.ssb.no/a/publikasjoner/pdf/rapp_201121/rapp_201121.pdf</a>
                             <p>
 
                                 В Осло цветные мигранты совершали каждое изнасилование с 2006 по 2010. 80% их жертв были коренными норвежками.
-                            </p><a href="">http://www.nrk.no/norge/rekordmange-overfallsvoldtekter-1.6944861</a>
+                            </p><a href="http://www.nrk.no/norge/rekordmange-overfallsvoldtekter-1.6944861">http://www.nrk.no/norge/rekordmange-overfallsvoldtekter-1.6944861</a>
                             <p>
 
                                 Иммигранты уходят на пенсию “по инвалидности” раньше, чем коренные норвежцы.
-                            </p><a href="">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=9</a>
+                            </p><a href="http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=9">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=9</a>
                             <p>
 
                                 Количество иммигрантов в Норвегии увеличилось с 5% до 12% всего лишь за десять лет.
-                            </p><a href="">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=6</a>
+                            </p><a href="http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=6">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=6</a>
                             <p>
 
                                 Азиатские и Африканские иммигранты в Норвегии имеют ощутимо низкий процент трудоустройста, чем коренные норвежцы.
-                            </p><a href="">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=13</a>
+                            </p><a href="http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=13">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=13</a>
                             <p>
 
                                 Беженцы в Норвегии в основном принадлежат к группам “с низким уровнем квалификации”.
-                            </p><a href="">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=16</a>
+                            </p><a href="http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=16">http://www.emnbelgium.be/sites/default/files/publications/nou_2011_7_perspective_andsummary.pdf#page=16</a>
                             <p>
 
                                 На протяжении своей жизни иммигрант-неевропеец обходится Норвегии в 4.1 миллиона крон (660.000 дол.)
-                            </p><a href="">http://www.ssb.no/a/publikasjoner/pdf/rapp_201215/rapp_201215.pdf</a>
+                            </p><a href="http://www.ssb.no/a/publikasjoner/pdf/rapp_201215/rapp_201215.pdf">http://www.ssb.no/a/publikasjoner/pdf/rapp_201215/rapp_201215.pdf</a>
                             <p>
 
                                 Содержание одного “беженца” обходится Норвегии в 24.000 дол. в год.
-                            </p><a href="">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
+                            </p><a href="http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees">http://cis.org/High-Cost-of-Resettling-Middle-Eastern-Refugees</a>
                             <p>
 
                                 В Осло каждая десятая женщина старше 15 лет была изнасилована мусульманами.
-                            </p><a href="">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
+                            </p><a href="http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html">http://www.americanthinker.com/articles/2015/11/islam_rape_and_the_fate_of_western_women.html</a>
 
 
                             <h3 id="ArIs-10">в Испании</h3>
                             <p>
                                 70% заключенных в Испании &mdash; мусульмане, не смотря на то, что они составляют лишь 1.5% населения страны.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 25% мусульман Испании считают, что терроризм обоснован.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 Молодые испанские мусульмане поддерживают терроризм сильнее, чем их родители.
-                            </p><a href="">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
+                            </p><a href="http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60">http://www.pewresearch.org/files/old-assets/pdf/muslim-americans.pdf#page=60</a>
                             <p>
 
                                 Население иммигрантов в Испании увеличилось в пять раз за последние семь лет.
-                            </p><a href="">http://sf.oxfordjournals.org/content/94/1/237</a>
+                            </p><a href="http://sf.oxfordjournals.org/content/94/1/237">http://sf.oxfordjournals.org/content/94/1/237</a>
 
 
                             <h3 id="ArIs-11">в Бельгии</h3>
                             <p>
                                 16% молодых мусульман-мужчин считают, что терроризм приемлем.
-                            </p><a href="">http://www.hln.be/hln/nl/1275/Islam/article/detail/1619036/2013/04/22/Zestien-procent-moslimjongens-vindt-terrorisme-aanvaardbaar.dhtml</a>
+                            </p><a href="http://www.hln.be/hln/nl/1275/Islam/article/detail/1619036/2013/04/22/Zestien-procent-moslimjongens-vindt-terrorisme-aanvaardbaar.dhtml">http://www.hln.be/hln/nl/1275/Islam/article/detail/1619036/2013/04/22/Zestien-procent-moslimjongens-vindt-terrorisme-aanvaardbaar.dhtml</a>
                             <p>
 
                                 В Бельгии уровень близкородственного потомства среди мусульман остается высоким.
-                            </p><a href="">http://www.pnas.org/content/107/suppl_1/1779.full</a>
+                            </p><a href="http://www.pnas.org/content/107/suppl_1/1779.full">http://www.pnas.org/content/107/suppl_1/1779.full</a>
 
 
                             <h3 id="ArIs-12">в Ирландии</h3>
                             <p>
                                 В Ирландии мигранты ответственны за четверть всех зарегистрированных случаев жестокого обращения с детьми.
-                            </p><a href="">http://www.independent.ie/breaking-news/irish-news/immigrant-parent-families-make-up-264-of-child-protection-cases-says-report-34245482.html</a>
+                            </p><a href="http://www.independent.ie/breaking-news/irish-news/immigrant-parent-families-make-up-264-of-child-protection-cases-says-report-34245482.html">http://www.independent.ie/breaking-news/irish-news/immigrant-parent-families-make-up-264-of-child-protection-cases-says-report-34245482.html</a>
 
 
 
@@ -1063,59 +1055,65 @@
 
 
                             <p>Эволюция человека не просто продолжается, но ускоряется.
-                            </p><a href="">http://discovermagazine.com/2009/mar/09-they-dont-make-homo-sapiens-like-they-used-to</a>
+                            </p><a href="http://discovermagazine.com/2009/mar/09-they-dont-make-homo-sapiens-like-they-used-to">http://discovermagazine.com/2009/mar/09-they-dont-make-homo-sapiens-like-they-used-to</a>
                             <p>
-                                Человеческие расы разделяются на отдельные виды, а не смешиваются в один. </p><a href="">http://discovermagazine.com/2009/mar/09-they-dont-make-homo-sapiens-like-they-used-to</a>
+                                Человеческие расы разделяются на отдельные виды, а не смешиваются в один. </p>
+							<a href="http://discovermagazine.com/2009/mar/09-they-dont-make-homo-sapiens-like-they-used-to">http://discovermagazine.com/2009/mar/09-they-dont-make-homo-sapiens-like-they-used-to</a>
                             <p>
                                 Средний иммигрант по рабочей визе США менее образован и квалифицирован, чем средний американец.
-                            </p><a href="">http://heather.cs.ucdavis.edu/h1b10min.html</a>
+                            </p><a href="http://heather.cs.ucdavis.edu/h1b10min.html">http://heather.cs.ucdavis.edu/h1b10min.html</a>
                             <p>
                                 Из-за иммиграции в США снизился общий уровень профессиональной квалификации.
-                            </p><a href="">http://www.nationalreview.com/article/424796/immigration-wave-post-1965-pew-study</a>
+                            </p><a href="http://www.nationalreview.com/article/424796/immigration-wave-post-1965-pew-study">http://www.nationalreview.com/article/424796/immigration-wave-post-1965-pew-study</a>
                             <p>
                                 54% иммигрантов с высшим образованием в США не обладают достаточной грамотностью.
-                            </p><a href="">http://www.nationalreview.com/article/424796/immigration-wave-post-1965-pew-study</a>
+                            </p><a href="http://www.nationalreview.com/article/424796/immigration-wave-post-1965-pew-study">http://www.nationalreview.com/article/424796/immigration-wave-post-1965-pew-study</a>
                             <p>
-                                15% генома человека было сформированно естественным отбором уже после того, как произошло разделение на расы. </p><a href="">http://www.amazon.com/Troublesome-Inheritance-Genes-Human-History/dp/1594204462</a>
+                                15% генома человека было сформированно естественным отбором уже после того, как произошло разделение на расы. </p>
+							<a href="http://www.amazon.com/Troublesome-Inheritance-Genes-Human-History/dp/1594204462">http://www.amazon.com/Troublesome-Inheritance-Genes-Human-History/dp/1594204462</a>
                             <p>
-                                Научное обсуждение понятия “раса” началось с 1946 года. Scientific discussion of race has increased since 1946 onwards. </p><a href="">http://www.ln.edu.hk/philoso/staff/sesardic/Race.pdf#page-15</a>
+                                Научное обсуждение понятия “раса” началось с 1946 года. Scientific discussion of race has increased since 1946 onwards. </p>
+							<a href="http://www.ln.edu.hk/philoso/staff/sesardic/Race.pdf#page-15">http://www.ln.edu.hk/philoso/staff/sesardic/Race.pdf#page-15</a>
                             <p>
                                 Концентрация меланина (пигмента, отвечающего, кроме прочего, за цвет кожи &mdash; прим. перевод.) может напрямую коррелировать с уровнем агрессии.
-                            </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886912000840</a>
+                            </p><a href="http://www.sciencedirect.com/science/article/pii/S0191886912000840">http://www.sciencedirect.com/science/article/pii/S0191886912000840</a>
                             <p>
                                 Раса позволяет лучше предсказать уровень преступности, чем бедность.
-                            </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                            </p><a href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
                                 Цель Раздела 8 Закона о жилье 1937 года США (вкратце: дешевое или бесплатное жилье для малоимущих &mdash; прим. перевод.) убрать черных из элитных городских районов в пригороды для среднего класса.
-                            </p><a href="">http://www.unz.com/article/race-and-crime-in-america/</a>
+                            </p><a href="http://www.unz.com/article/race-and-crime-in-america/">http://www.unz.com/article/race-and-crime-in-america/</a>
                             <p>
                                 Процент черных и латиноамериканцев в районе является позволяет лучше, чем уровень бедности, предсказать уровень преступности.
-                            </p><a href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                            </p><a href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
                                 Уровень дохода не повышает шанс мусульман, индусов и азиатов на отношения с белыми женщинами.
-                            </p><a href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
+                            </p><a href="http://sf.oxfordjournals.org/content/89/3/807.abstract">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
                             <p>
 
                                 Женщины, которые заявляют, что готовы встречаться с представителями любой расы, лгут и являются на столько же “предвзяты”, как женщины, которые заявляют обратное.
-                            </p><a href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=895442</a>
+                            </p><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=895442">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=895442</a>
                             <p>
                                 Половина преступлений на почве ненависти происходит между черными и латиноамериканцами.</p>
-                            <a href="">https://www.novapublishers.com/catalog/product_info.php?products_id=7337</a>
+                            <a href="https://www.novapublishers.com/catalog/product_info.php?products_id=7337">https://www.novapublishers.com/catalog/product_info.php?products_id=7337</a>
                             <p>
                                 Белые и азиатские женщины имеют более удачные браки, чем черные и латиноамериканки.
-                            </p><a href="">http://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf#page=7</a>
+                            </p><a href="http://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf#page=7">http://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf#page=7</a>
                             <p>
                                 Черные и латиноамерикацы обладают более низким уровнем самоконтроля, чем белые (в оригинале говорится о delay gratification, “Отложенное вознаграждение”: умение не воспользоваться каким-то вознаграждением сейчас, чтобы получить большее вознаграждение в будущем. &mdash; прим. перевод.).
-                            </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Расизм это “автоматическая” часть человеческого поведения.
-                            </p><a href="">http://journal.frontiersin.org/article/10.3389/fpsyg.2011.00108/abstract</a>
+                            </p><a href="http://journal.frontiersin.org/article/10.3389/fpsyg.2011.00108/abstract">http://journal.frontiersin.org/article/10.3389/fpsyg.2011.00108/abstract</a>
                             <p>
-                                Более привлекательные мужчины с высоким уровнем тестостерона чаще бывают расистами. </p><a href="">http://motherboard.vice.com/blog/ironically-a-mans-face-can-tell-you-if-hes-likely-to-act-like-a-racist</a>
+                                Более привлекательные мужчины с высоким уровнем тестостерона чаще бывают расистами. </p>
+							<a href="http://motherboard.vice.com/blog/ironically-a-mans-face-can-tell-you-if-hes-likely-to-act-like-a-racist">http://motherboard.vice.com/blog/ironically-a-mans-face-can-tell-you-if-hes-likely-to-act-like-a-racist</a>
                             <p>
-                                Из тридцати наиболее трагичных массовых убийств цветные как минимум двенадцать. </p><a href="">http://www.vdare.com/posts/of-the-thirty-deadliest-shooters-at-least-a-dozen-are-not-white-males</a>
+                                Из тридцати наиболее трагичных массовых убийств цветные как минимум двенадцать. </p>
+							<a href="http://www.vdare.com/posts/of-the-thirty-deadliest-shooters-at-least-a-dozen-are-not-white-males">http://www.vdare.com/posts/of-the-thirty-deadliest-shooters-at-least-a-dozen-are-not-white-males</a>
                             <p>
-                                Большинство студетнов, обвиненных в изнасилованиях &mdash; цветные. </p><a href="">http://www.newyorker.com/news/news-desk/argument-sexual-assault-race-harvard-law-school</a>
+                                Большинство студетнов, обвиненных в изнасилованиях &mdash; цветные. </p>
+							<a href="http://www.newyorker.com/news/news-desk/argument-sexual-assault-race-harvard-law-school">http://www.newyorker.com/news/news-desk/argument-sexual-assault-race-harvard-law-school</a>
 
 
 
@@ -1215,7 +1213,7 @@
                                 Процент чернокожих в городе, а не бедность, позволяет точнее предсказать уровень преступности.
                             </p><a href="">http://www.unz.com/article/race-and-crime-in-america/</a>
                             <p>
-                                Черные на 600% вероятнее белых совершат убийство.
+                                Черный на 600% вероятнее белого совершит убийство.
                             </p><a href="">http://www.unz.com/article/race-and-crime-in-america/</a>
                             <p>
                                 В Нью-Йорке только 1% из арестованных за стрельбу были белыми, 74% были черными. </p><a href="">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=17</a>
@@ -1273,7 +1271,7 @@
                                 Черные имеют значительно меньшие шансы на гармоничные и счастливые браки.
                             </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
-                                Черные не выплачивают кредиты чаще, чем другие расы.
+                                Черные не выплачивают кредиты чаще, чем представители других рас.
                             </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные на 80% чаще белых отказываются от собственных детей.
@@ -1291,10 +1289,10 @@
                                 Черные в два раза чаще склонны вымещать зло на детях, чем белые.
                             </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
-                                Черные мужчины в четыре раза чаще, чем белые, склонны бить своих жен.
+                                Черные мужчины в четыре раза больше, чем белые, склонны бить своих жен.
                             </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
-                                Черные женщины в два раще, чем белые, склонны к насилию над своими мужьями.
+                                Черные женщины в два раза больше, чем белые, склонны к насилию над своими мужьями.
                             </p><a href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Молодые черные в два с половиной раза чаще, чем молодые белые, оказываются насильниками.
@@ -1678,19 +1676,13 @@
     </div>
 
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="jquery.min.js"></script>
 
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="jquery.easing.min.js"></script>
 
-    <!-- Custom JavaScript for this theme -->
-    <script src="js/scrolling-nav.js"></script>
-
-
-
+    <script src="scrolling-nav.js"></script>
 
 </body>
 
