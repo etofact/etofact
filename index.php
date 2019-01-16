@@ -157,7 +157,9 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
 
-
+							
+							<!-- Для форм используется jotform.com -->
+							
                             <input class="modal-state" id="modal-1" type="checkbox" />
                             <div class="modal">
                                 <label class="modal__bg" for="modal-1"></label>
@@ -182,7 +184,13 @@
                                 </div>
                             </div>
 							
-							
+							<p class="pidarasy-plachut">
+								Каждый раз, когда вы делитесь этим сайтом, <?php
+                            $arrX = array("Яровая", "Соловьев", "Киселев");
+                            $randIndex = array_rand($arrX);
+                            echo $arrX[$randIndex];
+                            ?> плачет:
+							</p>
 							<!-- Sharingbutton Facebook -->
 							<a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fetofact.000webhostapp.com" target="_blank" rel="noopener" aria-label="Facebook">
 							  <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--medium"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -1659,35 +1667,8 @@
                             <p>
                                 В 1934 г. 38.5% старших офицеров госбезопасности были евреями. (Существуют общедоступные доказательства, что 80% всей советской верхушки были евреями. Будем дополнять. &mdash; прим. перевод.)
                             </p><a href="">http://www.ynetnews.com/articles/0,7340,L-3342999,00.html</a>
-                            
-
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section id="services" class="bg-light">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <h2>Services we offer</h2>
-                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
-                            <?php
-                            $arrX = array("Яровая", "Соловьев", "Киселев");
-                            $randIndex = array_rand($arrX);
-                            echo $arrX[$randIndex];
-                            ?>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section id="contact">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <h2>Contact us</h2>
-                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+							
+							
                         </div>
                     </div>
                 </div>
