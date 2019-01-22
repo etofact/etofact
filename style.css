@@ -20,6 +20,8 @@
 
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans');
 
+::-moz-selection { background: #000; color: #FFF;}
+::selection { background: #000; color: #FFF;}
 
 .logo {
     font-family: 'Fira Sans';
