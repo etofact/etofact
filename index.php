@@ -116,22 +116,22 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Gen-3">Транссексуалы</a>
 
                     </li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Мужчины</a>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Gen-4">Мужественность</a>
 
                     </li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Привлекательность</a>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Gen-5">Привлекательность</a>
 
                     </li>
                 </ul>
             </li>
 
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">&laquo;Разнообразие&raquo;</a>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Div-1">&laquo;Разнообразие&raquo;</a>
 
             </li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Этноцентризм</a>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Etno">Этноцентризм</a>
 
             </li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Интеллект</a>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Intel">Интеллект</a>
 
             </li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Обоснованность рас</a>
@@ -1563,7 +1563,7 @@
                                 Латиноамериканцы без американского гражданства составляют 29% контингента тюрем США, но 5% от общего населения США.
                             </p><a target="_blank" href="">http://cis.org/ImmigrantCrime</a>
                             <p>
-                                От 25 до 50% членов банд в США - нелегальные иммигранты.
+                                От 25 до 50% членов банд в США &mdash; нелегальные иммигранты.
                             </p><a target="_blank" href="">http://cis.org/ImmigrantCrime</a>
                             <p>
                                 Иммигранты в четыре раза чаще жителей США не оказываются способны закончить старшую школу.
@@ -1584,7 +1584,7 @@
                                 Латиноамериканцы в три раза чаще белых совершают насильственные преступления.
                             </p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
-                                Один из четырех американских заключенных - нелегал.
+                                Один из четырех американских заключенных &mdash; нелегал.
                             </p><a target="_blank" href="">http://cis.org/ImmigrantCrime</a>
                             <p>
                                 В США на долю латиноамериканцев без гражданства приходится большинство должностых преступлений.
@@ -1593,7 +1593,7 @@
                                 Латиноамериканцы на 60% чаще отказываются от собственных детей.
                             </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
-                                В Нью-Йорке 45% арестованных насильников - латиноамериканцы. </p><a target="_blank" href="">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=8</a>
+                                В Нью-Йорке 45% арестованных насильников &mdash; латиноамериканцы. </p><a target="_blank" href="">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=8</a>
                             <p>
                                 Процент латиноамериканцев с дипломом колледжа очень низок и не менялся в течение двух десятилетий.
                             </p><a target="_blank" href="">http://www.city-journal.org/2008/eon1008hm.html</a>
@@ -1726,7 +1726,7 @@
 								Пары, которые жили вместе до брака, имеют менее успешные союзы.
 							</p><a target="_blank" href="">http://sf.oxfordjournals.org/content/early/2012/10/25/sf.sos126.abstract</a>
 							<p>
-								Гендерные различия на Западе - это результат свободного выбора, сделанного изначально различными мужчинами и женщинами.
+								Гендерные различия на Западе &mdash; это результат свободного выбора, сделанного изначально различными мужчинами и женщинами.
 							</p><a target="_blank" href="">http://www.soc.ucsb.edu/faculty/mariacharles/documents/charles_ARS2011.pdf</a>
 							<p>
 								40% женщин, у которых было более 20 партнеров, имеют ЗППП.
@@ -1791,7 +1791,7 @@
 								До половины лесбиянок сообщали о сексуальных домогательствах.
 							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/9360290</a>
 							<p>
-								79% геев говорят, что половина их сексуальных партнеров - незнакомцы.
+								79% геев говорят, что половина их сексуальных партнеров &mdash; незнакомцы.
 							</p><a target="_blank" href="">http://www.amazon.com/Unequal-Opportunity-Disparities-Affecting-Bisexual/dp/0195301536</a>
 							<p>
 								99.8% несовершеннолетних лесбиянок, геев и бисексуалов изменят свою ориентацию в течение 13 лет.
@@ -1833,7 +1833,7 @@
 								Геи в 10-15 раз чаще имеют расстройства пищевого поведения.
 							</p><a target="_blank" href="">http://takimag.com/article/the_straight_dope_on_homosexuality_elizabeth_mccaw/print</a>
 							<p>
-								От 40% до 60% серийных убийц - гомосексуалисты.
+								От 40% до 60% серийных убийц &mdash; гомосексуалисты.
 							</p><a target="_blank" href="">http://takimag.com/article/the_straight_dope_on_homosexuality_elizabeth_mccaw/print</a>
 							<p>
 								Геи чаще подвергались насилию со стороны родителей, чем натуралы.
@@ -1899,7 +1899,7 @@
 								Гомосексуалисты, лесбиянки и транссексуалы обычно беднее, чем натуралы.
 							</p><a target="_blank" href="">http://takimag.com/article/the_straight_dope_on_homosexuality_elizabeth_mccaw/print</a>
 							<p>
-								США потратила 700 млд. дол., продвигая права геев за пределами страны - это неотъемлемая часть внешней политики.
+								США потратила 700 млд. дол., продвигая права геев за пределами страны &mdash; это неотъемлемая часть внешней политики.
 							</p><a target="_blank" href="">http://www.nytimes.com/2015/12/21/world/africa/us-support-of-gay-rights-in-africa-may-have-done-more-harm-than-good.html?_r=0</a>	
                         
 						
@@ -1947,7 +1947,7 @@
 								Геи и трансгендеры имеют на 50% меньшие шансы закончить высшую школу.
 							</p><a target="_blank" href="">https://www.americanprogress.org/issues/lgbt/news/2010/06/21/7980/gay-and-transgender-youth-homelessness-by-the-numbers/</a>
 							<p>
-								От 20% до 40% бездомных детей - транссексуалы.
+								От 20% до 40% бездомных детей &mdash; транссексуалы.
 							</p><a target="_blank" href="">https://www.americanprogress.org/issues/lgbt/news/2010/06/21/7980/gay-and-transgender-youth-homelessness-by-the-numbers/</a>
 							<p>
 								44% работающих транссексуалов имеют должности уровнем ниже своего образования.
@@ -2015,6 +2015,301 @@
 							<p>
 								Транссексуалы “мужчина-в-женщину” в 50 раз чаще натуралов имеют ВИЧ.
 							</p><a target="_blank" href="">http://news.yahoo.com/one-group-people-acquiring-hiv-204557712.html</a>
+							
+							<h3 id="Gen-4">Мужественность</h3>
+							<p>“Либеральные” мужчины чаще готовы встречаться с цветными.
+							</p><a target="_blank" href="">http://www.sciencedaily.com/releases/2015/08/150824211951.htm</a>
+							<p>
+								Менее мужественные мужчины более склонны к агрессии.
+							</p><a target="_blank" href="">http://www.sciencedaily.com/releases/2015/08/150824211951.htm</a>
+							<p>
+								Мышечная сила повышает самооценку, уменьшает депрессию и ощущение безнадежности.
+							</p><a target="_blank" href="">http://hpq.sagepub.com/content/early/2015/07/09/1359105315592051</a>
+							<p>
+								Физически слабые мужчины более “либеральны”, чем сильные.
+							</p><a target="_blank" href="">http://www.economist.com/news/science-and-technology/21564825-man%E2%80%99s-muscle-power-influences-his-beliefs</a>
+							<p>
+								“Мужчины управляют более крупными, инновационными и ориентированными на рост предприятиями, чем женщины”.
+							</p><a target="_blank" href="">http://sf.oxfordjournals.org/content/94/1/61</a>
+							<p>
+								Мужчины в три раза чаще совершают успешное самоубийство, чем женщины.
+							</p><a target="_blank" href="">http://williamsinstitute.law.ucla.edu/wp-content/uploads/AFSP-Williams-Suicide-Report-Final.pdf#page=4</a>
+							<p>
+								Физически слабые мужчины чаще выступают за экономическое перераспределение.
+							</p><a target="_blank" href="">http://pss.sagepub.com/content/24/7/1098</a>
+							
+								<h3 id="Gen-5">Привлекательность</h3>
+							<p>	
+								Женщины с низким соотношением талии к бедрам рожают более умных детей.
+							</p><a target="_blank" href="">http://www.nytimes.com/2010/04/18/magazine/18fob-Bergner-t.html</a>
+							<p>
+								Незрячие мужчины имеют те же стандарты женской привлекательности, что и зрячие.
+							</p><a target="_blank" href="">http://www.nytimes.com/2010/04/18/magazine/18fob-Bergner-t.html</a>
+							<p>
+								Привлекательные и успешные женщины обычно гетеросексуальны.
+							</p><a target="_blank" href="">http://www.independent.co.uk/news/science/attractive-women-more-likely-to-be-100-heterosexual-claims-new-study-10470599.html</a>
+							<p>
+								Привлекательность на 80% основана на общепринятых стандартах и на 20% субъективна.
+							</p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=895442</a>
+							<p>
+								Оценка красоты основана на биологическом базисе в участке головного мозга.
+							</p><a target="_blank" href="">http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001201</a>
+							
+							
+								<h3 id="Div-1">&laquo;Разнообразие&raquo;</h3>
+							<p>
+								Районы с большим количеством меньшинств демонстрируют меньший уровень социальной сплоченности.
+							</p><a target="_blank" href="">http://www.citylab.com/housing/2013/11/paradox-diverse-communities/7614/</a>
+							<p>
+								“Разнообразие” повышает риск психотических проявлений (здесь и далее “разнообразие” означает повышенный процент цветного населения и половых меньшинств &mdash; прим. перевод.)
+							</p>
+								<a target="_blank" href="">http://bjp.rcpsych.org/content/201/4/282.full</a>
+							<p>
+								“Разнообразие” увеличивает уровень социальных бед.
+							</p><a target="_blank" href="">http://bjp.rcpsych.org/content/201/4/282.full</a>
+							<p>
+								Десятипроцентное увеличение “разнообразия” в два раза повышает риск психотических эпизодов.
+							</p><a target="_blank" href="">http://bjp.rcpsych.org/content/201/4/282.full</a>
+							<p>
+								“Разнообразие” снижает явку избирателей, политическую эффективность, уровень благотворительности и количество дружеских отношений.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Этническое “разнообразие” снижает уровень счастья и качество жизни.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								“Разнообразие” уменьшает уровень доверия в обществе, взаимопомощи и здоровья.
+							</p><a target="_blank" href="">http://www.boston.com/news/globe/ideas/articles/2007/08/05/the_downside_of_diversity/?page=full</a>
+							<p>
+								Этническое “разнообразие” вредит здоровью даже среди латиноамериканцев и черных.
+							</p><a target="_blank" href="">http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2012.300787</a>
+							<p>
+								“Разнообразие” в основном вредит доминирующей этнической группе.
+							</p><a target="_blank" href="">http://www.theindependentaustralian.com.au/node/57</a>
+							<p>
+								Этническое “разнообразие” снижает уровень заботы о здоровье окружающей среды.
+							</p><a target="_blank" href="">http://link.springer.com/article/10.1007%2Fs10640-012-9619-6</a>
+							<p>
+								Этническое “разнообразие” в пределах 80 метров от человека снижает уровень социального доверия.
+							</p><a target="_blank" href="">http://curis.ku.dk/ws/files/130251172/Dinesen_S_nderskov_Ethnic_Diversity_and_Social_Trust_Forthcoming_ASR.pdf#page=2</a>
+							<p>
+								Этническое “разнообразие” напрямую сокращает сильные сообщества.
+							</p><a target="_blank" href="">https://www.msu.edu/~zpneal/publications/neal-diversitysoc.pdf</a>
+							<p>
+								Жизнь в этнически однородных районах положительно влияет на здоровье.
+							</p><a target="_blank" href="">https://www.mailman.columbia.edu/public-health-now/news/living-ethnically-homogenous-area-boosts-health-minority-seniors</a>
+							<p>
+								В американских городах с большим “разнообразием” выше и уровень сегрегации.
+							</p><a target="_blank" href="">http://fivethirtyeight.com/features/the-most-diverse-cities-are-often-the-most-segregated/</a>
+							<p>
+								В однородных обществах ниже уровень преступности, реже происходят гражданские войны и больше альтруизма.
+							</p><a target="_blank" href="">http://link.springer.com/article/10.1007%2Fs10464-013-9608-0</a>
+							<p>
+								Страны с меньшим “разнообразием” более демократичны, менее коррумпированы и с большим экономическим равенством.
+							</p><a target="_blank" href="">http://www.theindependentaustralian.com.au/node/57</a>
+							<p>
+								Существуют обширные доказательства, что люди предпочитают общество тех, кто генетически им близок.
+							</p><a target="_blank" href="">http://psychology.uwo.ca/faculty/rushtonpdfs/n&n%202005-1.pdf</a>
+							<p>
+								Границы, а не мультикультурализм, уменьшают уровень межгруппового насилия.
+							</p><a target="_blank" href="">http://arxiv.org/abs/1110.1409</a>
+							<p>
+								“Разнообразие” снижает уровень благотворительности и волонтерства.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Люди, которые живут в “разнообразных” сообществах, а не однородных, беднее и менее образованы.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Черные меньше доверяют своим соседям, чем белые.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Испаноговорящие меньше доверяют своим соседям, чем англоговорящие.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Азиаты меньше доверяют своим соседям, чем белые.</p>
+							<a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Этнически “разнообразные” рабочие места демонстрируют меньшую сплоченность, слабое удовлетворение работой и высокую текучесть кадров.
+							</p><a target="_blank" href="">http://jom.sagepub.com/content/23/3/239.short?rss=1&ssource=mfc</a>
+							<p>
+								Этническое “разнообразие” снижает социальное доверие.
+							</p><a target="_blank" href="">http://www.nber.org/papers/w5677</a>
+							<p>
+								Этническое “разнообразие” среди членов одной расы снижает качество инфраструктуры, благотворительность и скорость погашения кредитов.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Любое “разнообразие” заставляет людей чаше ошибаться в теоретико-игровых сценариях.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Однородные вооруженные подразделения имеют меньший процент дезертирства, чем “разнообразные”.
+							</p><a target="_blank" href="">http://www.nber.org/papers/w8627</a>
+							<p>
+								“Разнообразие” коррелирует с низким ВВП.
+							</p><a target="_blank" href="">https://www.washingtonpost.com/news/worldviews/wp/2013/05/16/a-revealing-map-of-the-worlds-most-and-least-ethnically-diverse-countries/</a>
+							<p>
+								Этническая “однородность” коррелирует с сильной демократией.
+							</p><a target="_blank" href="">https://www.washingtonpost.com/news/worldviews/wp/2013/05/16/a-revealing-map-of-the-worlds-most-and-least-ethnically-diverse-countries/</a>
+							<p>
+								Генетическое “разнообразие” порождает социальные конфликты.
+							</p><a target="_blank" href="">https://www.nber.org/papers/w21079</a>
+							<p>
+								Этническое “разнообразие” уменьшает социальную сплоченность.
+							</p><a target="_blank" href="">http://esr.oxfordjournals.org/content/early/2015/08/20/esr.jcv081.full</a>
+							
+							<h3 id="Etno">Этноцентризм</h3>
+							<p>Этноцентризм обоснован рационально, биологически и генетически.
+							</p><a target="_blank" href="">http://www.pnas.org/content/108/4/1262.abstract</a>
+							<p>
+								Дети проявляют этноцентризм еще до контактов с цветными.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2012.01138.x/full</a>
+							<p>
+								Этноцентризм универсален и, вероятно, появился в процессе эволюции.
+							</p><a target="_blank" href="">http://www-personal.umich.edu/~axe/research/AxHamm_Ethno.pdf</a>
+							<p>
+								Раса &mdash; это разветвленная семья. Этноцентризм генетически обоснован.
+							</p><a target="_blank" href="">http://www.amazon.com/The-Ethnic-Phenomenon-Pierre-Berghe/dp/0275927091</a>
+							<p>
+								Этноцентризм биологичен по происхождению и является превосходной эволюционной стратегией для альтруизма.
+							</p><a target="_blank" href="">http://jasss.soc.surrey.ac.uk/16/3/7.html</a>
+							<p>
+								Люди более альтруистично к тем, кто ближе к ним генетически.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/17456276</a>
+							<p>
+								Люди подсознательно предпочитают тех, кто близок им генетически по биологически обоснованным причинам.
+							</p><a target="_blank" href="">http://www.psychology.uwo.ca/faculty/rushtonpdfs/Genetic%20Similarity%201989.pdf</a>
+							<p>
+								Родство между членами этнической группы больше, чем ожидалось.
+							</p><a target="_blank" href="">http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.372.1009</a>
+							
+							
+							<h3 id="Intel">Интеллект</h3>
+							<p>Человеческий интеллект во многом определяется наследственностью.
+							</p><a target="_blank" href="">http://www.nature.com/mp/journal/v16/n10/abs/mp201185a.html</a>
+							<p>
+								Научный консенсус: тесты IQ не имеют расистских предубеждений.
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0160289608000305</a>
+							<p>
+								Уровень интеллекта очень бедных белых такой же, как у очень богатых черных.
+							</p><a target="_blank" href="">http://www.jbhe.com/features/49_college_admissions-test.html</a>
+							<p>
+								Неофициально эксперты по интеллекту чаще придерживаются взглядов на наследственно обоснованный IQ, чем они готовы признать публично.
+							</p><a target="_blank" href="">http://www.udel.edu/educ/gottfredson/reprints/1994egalitarianfiction.pdf#page=3</a>
+							<p>
+								Черные дети, выросшие в белых семьях, имеют такой же IQ, как черные дети, выросшие в семьях чернокожих.
+							</p><a target="_blank" href="">http://psycnet.apa.org/psycinfo/1977-07996-001</a>
+							<p>
+								75 &mdash; средний IQ африканца.
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886912003741</a>
+							<p>
+								Средний IQ афроамериканца &mdash; 85. Средний IQ белого &mdash; 100.
+							</p><a target="_blank" href="">http://www.udel.edu/educ/gottfredson/reprints/1997mainstream.pdf#page=2</a>
+							<p>
+								Разница между черными и белыми в результатах тестов на поступление в колледжи (SAT, равноценен тесту IQ) продолжает увеличиваться. </p>
+							<a target="_blank" href="">http://www.jbhe.com/features/49_college_admissions-test.html</a>
+							<p>
+								Гены большего размера головного мозга, связанные с высоким IQ, распространены везде, кроме Африки.
+							</p><a target="_blank" href="">http://www.wsj.com/articles/SB115040765329081636</a>
+							<p>
+								Интеллект на 40-50% обоснован генетически.
+							</p><a target="_blank" href="">http://articles.latimes.com/2011/aug/10/news/la-heb-genetic-study-intelligence-20110809</a>
+							<p>
+								IQ может лучше всего предсказать уровень успеха человека в западном обществе.
+							</p><a target="_blank" href="">http://psychology.uwo.ca/faculty/rushtonpdfs/PPPL1.pdf#page=2</a>
+							<p>
+								IQ на 75% является наследственным среди белых.
+							</p><a target="_blank" href="">http://psychology.uwo.ca/faculty/rushtonpdfs/PPPL1.pdf#page=2</a>
+							<p>
+								Средний IQ латиноамериканца &mdash; 90.
+							</p><a target="_blank" href="">http://benthamopen.com/contents/pdf/TOPSYJ/TOPSYJ-3-9.pdf</a>
+							<p>
+								Средний IQ в “Черной Африке” &mdash; 70.
+							</p><a target="_blank" href="">http://benthamopen.com/contents/pdf/TOPSYJ/TOPSYJ-3-9.pdf</a>
+							<p>
+								Средний IQ в Юго-Восточной Азии &mdash; 87.
+							</p><a target="_blank" href="">http://benthamopen.com/contents/pdf/TOPSYJ/TOPSYJ-3-9.pdf</a>
+							<p>
+								Наследственность IQ достигает 80% в зрелом возрасте.
+							</p><a target="_blank" href="">http://www.nature.com/mp/journal/v20/n1/full/mp2014105a.html</a>
+							<p>
+								Интеллект позволяет предсказать важных жизненных достижений: образование, карьера, психическое и физическое здорьвье, а также уровень моральной ответственности.
+							</p><a target="_blank" href="">http://www.nature.com/mp/journal/v20/n1/full/mp2014105a.html</a>
+							<p>
+								Интеллект &mdash; наиболее важная черта для брака.
+							</p><a target="_blank" href="">http://www.nature.com/mp/journal/v20/n1/full/mp2014105a.html</a>
+							<p>
+								Влияние наследственности IQ увеличивается с течением жизни (кроме глубокой старости).
+							</p><a target="_blank" href="">http://www.nature.com/mp/journal/v20/n1/full/mp2014105a.html</a>
+							<p>
+								Разница IQ между черными и белыми в основном наследственная.
+							</p><a target="_blank" href="">http://benthamopen.com/contents/pdf/TOPSYJ/TOPSYJ-3-9.pdf</a>
+							<p>
+								Более высокий IQ соответствует более низкому “временному предпочтению” (способность потратить больше времени, чтобы получить лучший результат &mdash; прим. перевод.)
+							</p><a target="_blank" href="">http://www.yale.edu/scan/Shamosh_inpress_Intelligence.pdf</a>
+							<p>
+								IQ управляющих страной определяет ее продуктивность и благосостояние.
+							</p><a target="_blank" href="">https://mpra.ub.uni-muenchen.de/57563/</a>
+							<p>
+								Интеллектуально развитые люди чаще физически активны вне работы и едят больше овощей и фруктов.
+							</p><a target="_blank" href="">http://www.nature.com/mp/journal/v20/n1/full/mp2014105a.html</a>
+							<p>
+								“Каждый день обычной жизни &mdash; это тест IQ.”
+							</p><a target="_blank" href="">http://www.udel.edu/educ/gottfredson/reprints/1997whygmatters.pdf</a>
+							<p>
+								“Интеллект и врожденные способности это черты, которые постоянно влияют на академические успехи, в то время как роль сознательных усилий второстепенна.”
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0022440514000831</a>
+							<p>
+								Влияние стеретипов объясняет лишь “малую или среднюю” часть различий IQ среди разных групп.
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0022440514000831</a>
+							<p>
+								“Мета-анализ приводит к выводу, что влияние стереотипов на измерение уровня IQ среди различных групп приводит к погрешности лишь в 3.3 очка.”
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0022440514000831</a>
+							<p>
+								В исследованиях широко распространена предвзятость публикаций, утверждающих, что «угроза стереотипа» ответственна за групповые различия в интеллекте.
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0022440514000831</a>
+							<p>
+								При корректировке предвзятости в публикациях, влияние стереотипов статистически практически равно нулю.
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0022440514000831</a>
+							<p>
+								30 наименнее интеллектуально развитых стран (кроме Гаити) находятся в “Черной Африке”.
+							</p><a target="_blank" href="">http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8492613&fileId=S1832427400010045</a>
+							<p>
+								Гаити, Непал, Шри Ланка, Гватемала и Катар &mdash; наименее интеллектуально развитые страны за пределами “Черной Африки”.
+							</p><a target="_blank" href="">http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8492613&fileId=S1832427400010045</a>
+							<p>
+								В холодных странах распространен более высокий IQ из-за сложных условий выживания.
+							</p><a target="_blank" href="">http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8492613&fileId=S1832427400010045</a>
+							<p>
+								Более высокий IQ соответствует большему уровню демократии.
+							</p><a target="_blank" href="">http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8492613&fileId=S1832427400010045</a>
+							<p>
+								IQ точнее прочего может предсказать производительность труда человека во всех исследуемых областях.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/ijsa.12069/abstract</a>
+							<p>
+								Интеллект может быть измерен напрямую с помощью сканирования мозга без единого теста.
+							</p><a target="_blank" href="">http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4135.html</a>
+							<p>
+								Средий IQ преступника &mdash; 85.
+							</p><a target="_blank" href="">https://us.sagepub.com/en-us/nam/21st-century-criminology-a-reference-handbook/book232189</a>
+							<p>
+								Большинство, если не все, психологические черты существенно зависят от генетики.
+							</p><a target="_blank" href="">http://cdp.sagepub.com/content/13/4/148</a>
+							<p>
+								IQ позволяет предсказать жизненные успехи с одинаковой точностью для всех рас.
+							</p><a target="_blank" href="">http://www.vdare.com/articles/indians-arent-that-intelligent-on-average</a>
+							<p>
+								Средний IQ в мусульманских странах &mdash; 81, на 7.5 меньше, чем в немусульманских.
+							</p><a target="_blank" href="">http://mankindquarterly.org/archive/paper.php?p=647</a>
+							<p>
+								Средний IQ в арабских странах &mdash; 84.
+							</p><a target="_blank" href="">http://mankindquarterly.org/archive/paper.php?p=647</a>
+							<p>
+								Цвет кожи &mdash; это лучший биологический предиктор IQ.
+							</p><a target="_blank" href="">http://mankindquarterly.org/archive/paper.php?p=647</a>
+							<p>
+								Почти на каждый достоверно измеренный психологический признак, особенно IQ, оказывают значительное влияние генетические факторы.
+							</p><a target="_blank" href="">http://cdp.sagepub.com/content/13/4/148</a>
+							<p>
+								Умные люди более склонны к сотрудничеству, чем глупые.
+							</p><a target="_blank" href="">http://www2.warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/255-2015_proto.pdf#page=2</a>
 
 							
 						</div>
@@ -2024,16 +2319,18 @@
 
         </div>
     </div>
-
-
-    <script src="jquery.min.js"></script>
+//////////////////////////////////////////////////////////////////
+<!-- https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5 -->
+ //////////////////////////////////////////////////////////////////   
+	
+	<script src="jquery.min.js"></script>
 
     <script src="bootstrap.bundle.min.js"></script>
 
     <script src="jquery.easing.min.js"></script>
 
     <script src="scrolling-nav.js"></script>
-
+	
 </body>
 
 </html>
