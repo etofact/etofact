@@ -22,7 +22,7 @@
 
         <label class="send-f" for="modal-2">Прислать факт</label>
         <label class="send-x" for="modal-1">Прислать опровержение</label>
-        <a class="send-x" href="#">Прочти меня</a>
+        <a class="send-x js-scroll-trigger" href="#Truth">Прочти меня</a>
     </header>
 
     <div class="sidebar-mask"></div>
@@ -134,10 +134,13 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Intel">Интеллект</a>
 
             </li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Обоснованность рас</a>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Val">Обоснованность рас</a>
 
             </li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Прочее</a>
+			<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Liber">Либерализм</a>
+
+            </li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Other">Прочее</a>
 
             </li>
         </ul>
@@ -176,10 +179,10 @@
                                 </div>
                             </div>
 							
-							<h4>
+							<h4 id="Truth">
 								Правду называют ненавистью те, кто ненавидит правду.
 							</h4>
-							<p>
+							<p class="announcement">
 								Перед вами перевод англоязычного сайта libraryofhate.com, уничтоженного врагами свободы слова и здравого смысла.
 								
 								К счастью, оригинал сайта <a target="_blank" href="https://archive.is/LRe05">сохранился в веб-архиве</a>. Используйте VPN: например, TOR или приватный режим браузера Opera.  
@@ -1129,309 +1132,309 @@
 
                             <h3 id="Races-2">Белые</h3>
                             <p>Белые мужчины вне зависимости от весовой категории сильнее черных и латиноамериканцев.
-                            </p><a target="_blank" href="">http://www.biomedcentral.com/1471-2458/10/508</a>
+                            </p><a target="_blank" href="http://www.biomedcentral.com/1471-2458/10/508">http://www.biomedcentral.com/1471-2458/10/508</a>
                             <p>
                                 Германцы/скандинавцы имеют более низкие временные предпочтения, чем другие группы (в оригинале: lower time preference. Вкратце: способность подождать дольше, чтобы получить больше &mdash; прим. перевод.).
-                            </p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1481443</a>
+                            </p><a target="_blank" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1481443">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1481443</a>
                             <p>
                                 Азиаты, латиноамеркианцы и черные предпочли бы жить среди белых, чем среди других меньшинств.
-                            </p><a target="_blank" href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
+                            </p><a target="_blank" href="http://sf.oxfordjournals.org/content/89/3/807.abstract">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
                             <p>
-                                90% членов банд &mdash; цветные.</p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                                90% членов банд &mdash; цветные.</p><a target="_blank" href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
-                                Белые не-евреи &mdash; самая малочисленная группа среди студентов колледжей. </p><a target="_blank" href="">http://www.theamericanconservative.com/articles/the-myth-of-american-meritocracy/</a>
+                                Белые не-евреи &mdash; самая малочисленная группа среди студентов колледжей. </p><a target="_blank" href="http://www.theamericanconservative.com/articles/the-myth-of-american-meritocracy/">http://www.theamericanconservative.com/articles/the-myth-of-american-meritocracy/</a>
                             <p>
-                                Западный тип лица с большими глазами и бледной кожей повсеместно считается привлекательным. </p><a target="_blank" href="">http://www.newyorker.com/magazine/2015/03/23/about-face</a>
+                                Западный тип лица с большими глазами и бледной кожей повсеместно считается привлекательным. </p><a target="_blank" href="http://www.newyorker.com/magazine/2015/03/23/about-face">http://www.newyorker.com/magazine/2015/03/23/about-face</a>
                             <p>
                                 Западных произведений искусства больше, чем всех остальных вместе взятых.
-                            </p><a target="_blank" href="">http://link.springer.com/article/10.1007%2Fs12129-012-9276-9</a>
+                            </p><a target="_blank" href="http://link.springer.com/article/10.1007%2Fs12129-012-9276-9">http://link.springer.com/article/10.1007%2Fs12129-012-9276-9</a>
 
 
 
                             <h3 id="Races-3">Черные</h3>
                             <p>Европейцы и азиаты &mdash; продукт более поздней эволюции, чем африканцы.
-                            </p><a target="_blank" href="">http://www.nytimes.com/2010/07/20/science/20adapt.html</a>
+                            </p><a target="_blank" href="http://www.nytimes.com/2010/07/20/science/20adapt.html">http://www.nytimes.com/2010/07/20/science/20adapt.html</a>
                             <p>
                                 48% африканцев являются носителями вируса герпеса первого и второго типа. (Важное дополнение: инфекция вируса герпеса второго типа увеличивает риск заражения ВИЧ-инфекцией приблизительно в три раза. Кроме того, лица, зараженные ВИЧ и этим вирусом, с большей вероятностью передают ВИЧ другим. У лиц, инфицированных ВИЧ, вирус герпеса второго типа является одной их наиболее частых инфекций и встречается у 60-90% лиц с ВИЧ-инфекцией &mdash; прим. перевод.).
-                            </p><a target="_blank" href="">http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm</a>
+                            </p><a target="_blank" href="http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm">http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm</a>
                             <p>
                                 Процент заражения гонореей в 30 раз выше среди афроамериканцев, чем среди белых.
-                            </p><a target="_blank" href="">http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm</a>
+                            </p><a target="_blank" href="http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm">http://www.cdc.gov/stdconference/2000/media/AfAmericans2000.htm</a>
                             <p>
                                 Полицейские дольше колеблются перед выстрелом в черных подозреваемых, чем в белых.
-                            </p><a target="_blank" href="">http://link.springer.com/article/10.1007%2Fs11292-014-9204-9</a>
+                            </p><a target="_blank" href="http://link.springer.com/article/10.1007%2Fs11292-014-9204-9">http://link.springer.com/article/10.1007%2Fs11292-014-9204-9</a>
                             <p>
                                 Более 100 белых женщин в США подвергаются сексуальному нападению или изнасилованию черными каждый день.
-                            </p><a target="_blank" href="">http://archive.frontpagemag.com/readArticle.aspx?ARTID=26368</a>
+                            </p><a target="_blank" href="http://archive.frontpagemag.com/readArticle.aspx?ARTID=26368">http://archive.frontpagemag.com/readArticle.aspx?ARTID=26368</a>
                             <p>
-                                Наибольшее число серийных убийц &mdash; черные, и этот процент растет.
-                            </p><a target="_blank" href="">http://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf#page=3</a>
+                                Большинство серийных убийц &mdash; черные, и этот процент растет.
+                            </p><a target="_blank" href="http://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf#page=3">http://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf#page=3</a>
                             <p>
-                                Вопреки заявлениям о предвзятости, среди черных наибольший процент жестокого обращения с детьми. </p><a target="_blank" href="">http://www.theroot.com/articles/culture/2011/03/Black_childabuse_statistics_report_debunks_bias_assumptions.html</a>
+                                Вопреки заявлениям о предвзятости, среди черных наибольший процент жестокого обращения с детьми. </p><a target="_blank" href="http://www.theroot.com/articles/culture/2011/03/Black_childabuse_statistics_report_debunks_bias_assumptions.html">http://www.theroot.com/articles/culture/2011/03/Black_childabuse_statistics_report_debunks_bias_assumptions.html</a>
                             <p>
                                 39% всех убийц полицейских в США &mdash; черные (черное население США: 12%). </p>
-                            <a target="_blank" href="">https://www.fbi.gov/about-us/cjis/ucr/leoka/2013/officers-feloniously-killed/felonious_topic_page_2013.pdf#page=4</a>
+                            <a target="_blank" href="https://www.fbi.gov/about-us/cjis/ucr/leoka/2013/officers-feloniously-killed/felonious_topic_page_2013.pdf#page=4">https://www.fbi.gov/about-us/cjis/ucr/leoka/2013/officers-feloniously-killed/felonious_topic_page_2013.pdf#page=4</a>
                             <p>
-                                73% афроамериканских детей рождается вне брака. </p><a target="_blank" href="">http://www.cdc.gov/nchs/data/nvsr/nvsr61/nvsr61_01.pdf#page=8</a>
+                                73% афроамериканских детей рождается вне брака. </p><a target="_blank" href="http://www.cdc.gov/nchs/data/nvsr/nvsr61/nvsr61_01.pdf#page=8">http://www.cdc.gov/nchs/data/nvsr/nvsr61/nvsr61_01.pdf#page=8</a>
                             <p>
                                 Средний коэффициент интеллекта черного на 15 пунктов ниже, чем белого.
-                            </p><a target="_blank" href="">http://www.gifted.uconn.edu/siegle/research/correlation/intelligence.pdf</a>
+                            </p><a target="_blank" href="http://www.gifted.uconn.edu/siegle/research/correlation/intelligence.pdf">http://www.gifted.uconn.edu/siegle/research/correlation/intelligence.pdf</a>
                             <p>
                                 Разница в IQ между черными и белыми в США такая же, как в ЮАР, не смотря на то, что ЮАР управляется черными.
-                            </p><a target="_blank" href="">http://psychology.uwo.ca/faculty/rushtonpdfs/ravensiii.pdf</a>
+                            </p><a target="_blank" href="http://psychology.uwo.ca/faculty/rushtonpdfs/ravensiii.pdf">http://psychology.uwo.ca/faculty/rushtonpdfs/ravensiii.pdf</a>
                             <p>
                                 Разница в IQ между черными и белыми сохраняется даже в одинаковых условиях для воспитания и роста.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/016028969290028P</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/016028969290028P">http://www.sciencedirect.com/science/article/pii/016028969290028P</a>
                             <p>
                                 93% убитых чернокожих мужчин убиты другими чернокожими мужчинами.
-                            </p><a target="_blank" href="">http://www.bjs.gov/content/pub/pdf/bvvc.pdf#page=3</a>
+                            </p><a target="_blank" href="http://www.bjs.gov/content/pub/pdf/bvvc.pdf#page=3">http://www.bjs.gov/content/pub/pdf/bvvc.pdf#page=3</a>
                             <p>
                                 Разница в IQ между черными и белыми не уменьшается.
-                            </p><a target="_blank" href="">http://emilkirkegaard.dk/en/wp-content/uploads/The%20totality%20of%20available%20evidence%20shows%20the%20race%20IQ%20gap%20still%20remains.pdf</a>
+                            </p><a target="_blank" href="http://emilkirkegaard.dk/en/wp-content/uploads/The%20totality%20of%20available%20evidence%20shows%20the%20race%20IQ%20gap%20still%20remains.pdf">http://emilkirkegaard.dk/en/wp-content/uploads/The%20totality%20of%20available%20evidence%20shows%20the%20race%20IQ%20gap%20still%20remains.pdf</a>
                             <p>
                                 70% чернокожих детей рождаются вне брака.
-                            </p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2625893</a>
+                            </p><a target="_blank" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2625893">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2625893</a>
                             <p>
-                                Черные совершают 56% ограблений в США (черное население США: 12%).</p> <a target="_blank" href="">https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43</a>
+                                Черные совершают 56% ограблений в США (черное население США: 12%).</p> <a target="_blank" href="https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43">https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43</a>
                             <p>
                                 Черные совершают 50% убийств в США (черное население США: 12%).</p>
-                            <a target="_blank" href="">https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43</a>
+                            <a target="_blank" href="https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43">https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43</a>
                             <p>
                                 Черные совершают 33% изнасилований в США (черное население США: 12%).</p>
-                            <a target="_blank" href="">https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43</a>
+                            <a target="_blank" href="https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43">https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-43</a>
                             <p>
-                                Молодые черные становятся убийцами в 14 раз чаще, чем молодые белые. </p><a target="_blank" href="">http://ideas.time.com/2013/08/22/viewpoint-dont-ignore-race-in-christopher-lanes-murder/#ixzz2ciWBxj00</a>
+                                Молодые черные становятся убийцами в 14 раз чаще, чем молодые белые. </p><a target="_blank" href="http://ideas.time.com/2013/08/22/viewpoint-dont-ignore-race-in-christopher-lanes-murder/#ixzz2ciWBxj00">http://ideas.time.com/2013/08/22/viewpoint-dont-ignore-race-in-christopher-lanes-murder/#ixzz2ciWBxj00</a>
                             <p>
                                 У африканцев большее число генов, связанных с насилием.
-                            </p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913922/</a>
+                            </p><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913922/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913922/</a>
                             <p>
                                 Черные женщины в 4 раза чаще страдают ожирением, чем белые.
-                            </p><a target="_blank" href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
+                            </p><a target="_blank" href="http://sf.oxfordjournals.org/content/89/3/807.abstract">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
                             <p>
                                 Черные в 7 раз чаще, чем белые, становятся убийцами.
-                            </p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                            </p><a target="_blank" href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
                                 Успеваемость учеников любых рас хуже в школах с большим количеством черных.
-                            </p><a target="_blank" href="">http://www.usnews.com/news/articles/2015/09/24/study-finds-students-underperform-in-schools-with-large-Black-populations</a>
+                            </p><a target="_blank" href="http://www.usnews.com/news/articles/2015/09/24/study-finds-students-underperform-in-schools-with-large-Black-populations">http://www.usnews.com/news/articles/2015/09/24/study-finds-students-underperform-in-schools-with-large-Black-populations</a>
                             <p>
                                 Средний объем головного мозга черного: 1267 куб. см, белого: 1347 куб. см.
-                            </p><a target="_blank" href="">http://psychology.uwo.ca/faculty/rushtonpdfs/RandRProgressIntell2003.pdf</a>
+                            </p><a target="_blank" href="http://psychology.uwo.ca/faculty/rushtonpdfs/RandRProgressIntell2003.pdf">http://psychology.uwo.ca/faculty/rushtonpdfs/RandRProgressIntell2003.pdf</a>
                             <p>
                                 97% белых мужчин не хотят начинать отношения с черными женщинами.
-                            </p><a target="_blank" href="">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
+                            </p><a target="_blank" href="http://sf.oxfordjournals.org/content/89/3/807.abstract">http://sf.oxfordjournals.org/content/89/3/807.abstract</a>
                             <p>
                                 Процент чернокожих в городе, а не бедность, позволяет точнее предсказать уровень преступности.
-                            </p><a target="_blank" href="">http://www.unz.com/article/race-and-crime-in-america/</a>
+                            </p><a target="_blank" href="http://www.unz.com/article/race-and-crime-in-america/">http://www.unz.com/article/race-and-crime-in-america/</a>
                             <p>
                                 Черный на 600% вероятнее белого совершит убийство.
-                            </p><a target="_blank" href="">http://www.unz.com/article/race-and-crime-in-america/</a>
+                            </p><a target="_blank" href="http://www.unz.com/article/race-and-crime-in-america/">http://www.unz.com/article/race-and-crime-in-america/</a>
                             <p>
-                                В Нью-Йорке только 1% из арестованных за стрельбу были белыми, 74% были черными. </p><a target="_blank" href="">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=17</a>
+                                В Нью-Йорке только 1% из арестованных за стрельбу были белыми, 74% были черными. </p><a target="_blank" href="http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=17">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=17</a>
                             <p>
                                 В Нью-Йорке 43% арестованных за изнасилование были черными.
-                            </p><a target="_blank" href="">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=8</a>
+                            </p><a target="_blank" href="http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=8">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=8</a>
                             <p>
-                                В Нью-Йорке 61% арестованных за ограбление были черными. </p><a target="_blank" href="">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=10</a>
+                                В Нью-Йорке 61% арестованных за ограбление были черными. </p><a target="_blank" href="http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=10">http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/enforcement_report_year_end_2014.pdf#page=10</a>
                             <p>
                                 Черные обладают более низким эмоциональным интеллектом, чем белые.
-                            </p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/ijsa.12069/abstract</a>
+                            </p><a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ijsa.12069/abstract">http://onlinelibrary.wiley.com/doi/10.1111/ijsa.12069/abstract</a>
                             <p>
                                 В Канаде черные составляют 2% населения, но 6% заключенных.
-                            </p><a target="_blank" href="">http://www.csc-scc.gc.ca/research/r144-eng.shtml</a>
+                            </p><a target="_blank" href="http://www.csc-scc.gc.ca/research/r144-eng.shtml">http://www.csc-scc.gc.ca/research/r144-eng.shtml</a>
                             <p>
                                 Черный вероятнее, чем белый, окажется нарциссистом.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0092656611000912</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092656611000912">http://www.sciencedirect.com/science/article/pii/S0092656611000912</a>
                             <p>
                                 67% арестованных за преступления с применением оружия в Лондоне &mdash; черные (черное население Лондона: 12%).
-                            </p><a target="_blank" href="">http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html</a>
+                            </p><a target="_blank" href="http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html">http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html</a>
                             <p>
                                 32% изнасилований в Лондоне совершают черные (черное население Лондона: 12%).
-                            </p><a target="_blank" href="">http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html</a>
+                            </p><a target="_blank" href="http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html">http://www.telegraph.co.uk/news/uknews/crime/7856787/Violent-inner-city-crime-the-figures-and-a-question-of-race.html</a>
                             <p>
                                 Один из четырех южноафриканцев признает, что совершал изнасилования.
-                            </p><a target="_blank" href="">http://news.bbc.co.uk/2/hi/africa/8107039.stm</a>
+                            </p><a target="_blank" href="http://news.bbc.co.uk/2/hi/africa/8107039.stm">http://news.bbc.co.uk/2/hi/africa/8107039.stm</a>
                             <p>
                                 Черный на 90% вероятнее, чем белый, окажется психопатом.
-                            </p><a target="_blank" href="">http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0022-006X.76.5.893</a>
+                            </p><a target="_blank" href="http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0022-006X.76.5.893">http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0022-006X.76.5.893</a>
                             <p>
-                                Черный в Великобритании в два раза чаще оказывается в тюрьме, чем в университете. </p><a target="_blank" href="">http://www.telegraph.co.uk/news/uknews/1449468/Twice-as-many-Blacks-in-jail-as-at-university.html</a>
+                                Черный в Великобритании в два раза чаще оказывается в тюрьме, чем в университете. </p><a target="_blank" href="http://www.telegraph.co.uk/news/uknews/1449468/Twice-as-many-Blacks-in-jail-as-at-university.html">http://www.telegraph.co.uk/news/uknews/1449468/Twice-as-many-Blacks-in-jail-as-at-university.html</a>
                             <p>
                                 70% эфиопских женщин признают, что подверглись физическому или сексуальному насилию.
-                            </p><a target="_blank" href="">http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736%2806%2969523-8.pdf</a>
+                            </p><a target="_blank" href="http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736%2806%2969523-8.pdf">http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736%2806%2969523-8.pdf</a>
                             <p>
                                 Черные более склонны к психопатии и менее способны к эмпатии, чем белые.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные чаще совершают насильственные преступления против белых, чем против других черных.
-                            </p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                            </p><a target="_blank" href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
-                                Черный в 136 раз вероятнее совершит насильственное преступление против белого, чем наоборот. </p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                                Черный в 136 раз вероятнее совершит насильственное преступление против белого, чем наоборот. </p><a target="_blank" href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
-                                Черный в 136 раз вероятнее совершит реступление на почве ненависти против белого, чем наоборот. </p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                                Черный в 136 раз вероятнее совершит реступление на почве ненависти против белого, чем наоборот. </p><a target="_blank" href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
                                 Черные в три раза чазе совершают должностные преступления, такие как мошеничество, подкуп, вымогательство и растрата.
-                            </p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                            </p><a target="_blank" href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
                                 В районах с высоким процентом чернокожего населения выше и процент преступлений.
-                            </p><a target="_blank" href="">http://www.amazon.com/Handbook-Crime-Correlates-Lee-Ellis/dp/0123736129</a>
+                            </p><a target="_blank" href="http://www.amazon.com/Handbook-Crime-Correlates-Lee-Ellis/dp/0123736129">http://www.amazon.com/Handbook-Crime-Correlates-Lee-Ellis/dp/0123736129</a>
                             <p>
                                 Черные меньше ценят брачные ценности, чем белые.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные имеют значительно меньшие шансы на гармоничные и счастливые браки.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные не выплачивают кредиты чаще, чем представители других рас.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные на 80% чаще белых отказываются от собственных детей.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные чаще страдают от синдрома дефицита внимания и гиперактивности, чем белые.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 У черных моральное различение развито слабее, чем у белых.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные более безрасудны, чем белые.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные в два раза чаще склонны вымещать зло на детях, чем белые.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные мужчины в четыре раза больше, чем белые, склонны бить своих жен.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные женщины в два раза больше, чем белые, склонны к насилию над своими мужьями.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Молодые черные в два с половиной раза чаще, чем молодые белые, оказываются насильниками.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Cреди заключенных лондонских тюрем черных в шесть раз больше белых.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные чаще убивают своих супругов, чем другие расы.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные на 50% чаще белых склонны к измене своим партнерам.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные менее упорны, чем другие расы.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 У черных студентов колледжей оценки ниже, чем у студентов других рас в равным IQ.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные меньше занимаются бытовыми делами.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные имеют оценку SAT ниже, чем белые. (SAT стандартизированный тест для приема в высшие учебные заведения США &mdash; прим. перевод.)
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Черные в четыре раза чаще, чем белые, оказываются убийцами собственных детей.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0191886901000290">http://www.sciencedirect.com/science/article/pii/S0191886901000290</a>
                             <p>
                                 Несмотря на помощь в размере 1 трлн. дол. от Запада, ВВП на душу населения Африканских стран снижается с 1960 г.
-                            </p><a target="_blank" href="">http://new.spectator.co.uk/2014/07/imperialism-is-back-and-this-time-its-politically-correct/</a>
+                            </p><a target="_blank" href="http://new.spectator.co.uk/2014/07/imperialism-is-back-and-this-time-its-politically-correct/">http://new.spectator.co.uk/2014/07/imperialism-is-back-and-this-time-its-politically-correct/</a>
                             <p>
                                 Только 12% черных восьмиклассников хорошо владеют математикой.
-                            </p><a target="_blank" href="">http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0</a>
+                            </p><a target="_blank" href="http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0">http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0</a>
                             <p>
                                 У малоимущих белых учеников успеваемость на уровне состоятельных черных.
-                            </p><a target="_blank" href="">http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0</a>
+                            </p><a target="_blank" href="http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0">http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0</a>
                             <p>
                                 Только 12% черных четвероклассников хорошо читают.
-                            </p><a target="_blank" href="">http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0</a>
+                            </p><a target="_blank" href="http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0">http://www.nytimes.com/2010/11/09/education/09gap.html?_r=0</a>
                             <p>
                                 85% преступлений между черными и белыми совершаются черными.
-                            </p><a target="_blank" href="">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
+                            </p><a target="_blank" href="http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/">http://www.colorofcrime.com/2005/10/the-color-of-crime-2005/</a>
                             <p>
                                 Черные чаще оказываются геями или бисексуалами.
-                            </p><a target="_blank" href="">http://www.huffingtonpost.com/2012/10/19/black-gays-lgbt-community_n_1989859.html</a>
+                            </p><a target="_blank" href="http://www.huffingtonpost.com/2012/10/19/black-gays-lgbt-community_n_1989859.html">http://www.huffingtonpost.com/2012/10/19/black-gays-lgbt-community_n_1989859.html</a>
                             <p>
                                 За два года черными было убито больше черных, чем за 80 лет линчеваний.
-                            </p><a target="_blank" href="">http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/</a>
+                            </p><a target="_blank" href="http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/">http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/</a>
                             <p>
                                 Черные составляют лишь 13% населения, но совершили половину всех убийств в США за 30 лет.
-                            </p><a target="_blank" href="">http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/</a>
+                            </p><a target="_blank" href="http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/">http://www.breitbart.com/big-government/2015/11/28/5-devastating-facts-black-black-crime/</a>
                             <p>
                                 У европейцев 540 Нобелевских премий, у африканцев &mdash; одна.
-                            </p><a target="_blank" href="">http://mankindquarterly.org/archive/paper.php?p=647</a>
+                            </p><a target="_blank" href="http://mankindquarterly.org/archive/paper.php?p=647">http://mankindquarterly.org/archive/paper.php?p=647</a>
                             <p>
                                 Черные на 60-80% более, чем белые, склонны солгать в ответ на вопрос о количестве преступлений, которые они совершали.
-                            </p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S019188690200363X</a>
+                            </p><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S019188690200363X">http://www.sciencedirect.com/science/article/pii/S019188690200363X</a>
                             <p>
                                 Черные иммигранты в Западной Европе “заметно” чаще белых страдают от шизофрении.
-                            </p><a target="_blank" href="">http://ije.oxfordjournals.org/content/36/4/751.short</a>
+                            </p><a target="_blank" href="http://ije.oxfordjournals.org/content/36/4/751.short">http://ije.oxfordjournals.org/content/36/4/751.short</a>
                             <p>
                                 Черные в два раза чаще страдают шизофренией, чем белые, даже с учетом разницы в уровне жизни.
-                            </p><a target="_blank" href="">http://ije.oxfordjournals.org/content/36/4/751.short</a>
+                            </p><a target="_blank" href="http://ije.oxfordjournals.org/content/36/4/751.short">http://ije.oxfordjournals.org/content/36/4/751.short</a>
                             <p>
                                 Чернокожие мужчины чаще, чем белые, лгут в ответ на вопрос, употребляют ли они наркотики.
-                            </p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495080/</a>
+                            </p><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495080/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495080/</a>
                             <p>
                                 Черные в шесть раз чаще, чем белые, лгут в ответ на вопрос, употребляют ли они кокаин.
-                            </p><a target="_blank" href="">http://www.americanthinker.com/articles/2015/11/trump_a_liar_the_real_story_about_deceit_in_racial_crime_numbers.html</a>
+                            </p><a target="_blank" href="http://www.americanthinker.com/articles/2015/11/trump_a_liar_the_real_story_about_deceit_in_racial_crime_numbers.html">http://www.americanthinker.com/articles/2015/11/trump_a_liar_the_real_story_about_deceit_in_racial_crime_numbers.html</a>
                             <p>
                                 В Британии чернокожиие в шесть раз чаще, чем белые, страдают от шизофрении.
-                            </p><a target="_blank" href="">http://news.bbc.co.uk/2/hi/health/807945.stm</a>
+                            </p><a target="_blank" href="http://news.bbc.co.uk/2/hi/health/807945.stm">http://news.bbc.co.uk/2/hi/health/807945.stm</a>
                             <p>
                                 90% межрасового насилия между черными и белыми совершено черными.
-                            </p><a target="_blank" href="">http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full</a>
+                            </p><a target="_blank" href="http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full">http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full</a>
                             <p>
                                 Черный мужчина в сто раз чаще совершает изнасилование белой женщины, чем белый мужчина изнасилование черной женщины.
-                            </p><a target="_blank" href="">http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full</a>
+                            </p><a target="_blank" href="http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full">http://news.investors.com/ibd-editorials-viewpoint/082613-668778-epidemic-of-white-on-black-violence-is-a-fraud.htm?p=full</a>
                             <p>
                                 Из 1500 шахматных гроссмейстеров Мира только три или четыре &mdash; черные.
-                            </p><a target="_blank" href="">http://worldchess.com/2015/12/15/the-racial-gap-for-titles-among-american-players/</a>
+                            </p><a target="_blank" href="http://worldchess.com/2015/12/15/the-racial-gap-for-titles-among-american-players/">http://worldchess.com/2015/12/15/the-racial-gap-for-titles-among-american-players/</a>
                             <p>
                                 Только 54% всех черных мужчин между в возрасте между 25-34 годами имеют школьное образование, работу и находятся на свободе.
-                            </p><a target="_blank" href="">http://blogs.baruch.cuny.edu/lexingtonreview/?p=36</a>
+                            </p><a target="_blank" href="http://blogs.baruch.cuny.edu/lexingtonreview/?p=36">http://blogs.baruch.cuny.edu/lexingtonreview/?p=36</a>
                             <p>
                                 Половина черных женщин инфицированна герпесом. 80% из них не знает об этом.
-                            </p><a target="_blank" href="">http://www.theroot.com/articles/culture/2010/03/nearly_half_of_black_women_have_herpes.html</a>
+                            </p><a target="_blank" href="http://www.theroot.com/articles/culture/2010/03/nearly_half_of_black_women_have_herpes.html">http://www.theroot.com/articles/culture/2010/03/nearly_half_of_black_women_have_herpes.html</a>
                             <p>
                                 Каждый год 1200 человек, в основном черные, умирают из-за кроссовок.
-                            </p><a target="_blank" href="">http://video.gq.com/watch/sneakerheadz-1-200-people-die-over-sneakers-each-year</a>
+                            </p><a target="_blank" href="http://video.gq.com/watch/sneakerheadz-1-200-people-die-over-sneakers-each-year">http://video.gq.com/watch/sneakerheadz-1-200-people-die-over-sneakers-each-year</a>
 
 
                             <h3 id="Races-4">ЮАР</h3>
                             <p>Большинство южноафриканцев считает, что жизнь при апартеиде была лучше. </p>
-                            <a target="_blank" href="">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
+                            <a target="_blank" href="http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
                             <p>
                                 Продолжительность жизни в ЮАР снизилась после прекращения апартеида.
-                            </p><a target="_blank" href="">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
+                            </p><a target="_blank" href="http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
                             <p>
                                 Процент убийств в ЮАР находится на 10-м месте в Мире. Белые фермеры бывают жертвами в четыре раза чаще остальных жителей.
-                            </p><a target="_blank" href="">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
+                            </p><a target="_blank" href="http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
                             <p>
                                 Черные жители ЮАР &mdash; не коренные жители. Они прибыли туда сразу перед белыми поселенцами.
-                            </p><a target="_blank" href="">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
+                            </p><a target="_blank" href="http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter">http://www.nationalreview.com/article/398136/end-south-africa-josh-gelernter</a>
                             <p>
                                 В ЮАР каждые три минуты подвергается изнасилованию ребенок (175000 детей каждый год).
-                            </p><a target="_blank" href="">http://news.bbc.co.uk/2/hi/africa/8107039.stm</a>
+                            </p><a target="_blank" href="http://news.bbc.co.uk/2/hi/africa/8107039.stm">http://news.bbc.co.uk/2/hi/africa/8107039.stm</a>
                             <p>
                                 В городских районах ЮАР один из трех мужчин признает, что участвовал в изнасиловании.
-                            </p><a target="_blank" href="">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
+                            </p><a target="_blank" href="http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
                             <p>
                                 В ЮАР изнасилование считается “законной деятельностью” и часто совершается от скуки.
-                            </p><a target="_blank" href="">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
+                            </p><a target="_blank" href="http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
                             <p>
                                 В ЮАР 7% мужчин участвовали в групповом изнасиловании.
-                            </p><a target="_blank" href="">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
+                            </p><a target="_blank" href="http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
                             <p>
                                 В ЮАР 78% мужчин проявляют насилие по отношению к женщинам.
-                            </p><a target="_blank" href="">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
+                            </p><a target="_blank" href="http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html">http://www.huffingtonpost.com/2010/11/27/south-africa-rape-study-m_n_788722.html</a>
                             <p>
                                 В отличие от всех остальных, у субсахарских культур Африки (стран, находящихся к югу от Сахары, “Черная Африка” ) нет мифологии, связанной со звездами или ночным небом.
-                            </p><a target="_blank" href="">http://www.folklore.ee/rl/pubte/ee/araamat/2009/3berezkin.pdf#page=3</a>
+                            </p><a target="_blank" href="http://www.folklore.ee/rl/pubte/ee/araamat/2009/3berezkin.pdf#page=3">http://www.folklore.ee/rl/pubte/ee/araamat/2009/3berezkin.pdf#page=3</a>
                             <p>
                                 Жители “Черной Африки” &mdash; единственная группа людей, у которой нет подробной мифологии или истории сотворения Мира.
-                            </p><a target="_blank" href="">http://www.amazon.com/Origins-Worlds-Mythologies-Michael-Witzel/dp/0199812853</a>
+                            </p><a target="_blank" href="http://www.amazon.com/Origins-Worlds-Mythologies-Michael-Witzel/dp/0199812853">http://www.amazon.com/Origins-Worlds-Mythologies-Michael-Witzel/dp/0199812853</a>
                             <p>
                                 От 35% до 50% населения “Черной Африки” рождены от близкородственных связей.
-                            </p><a target="_blank" href="">http://ieet.org/index.php/IEET/more/pellissier20120526</a>
+                            </p><a target="_blank" href="http://ieet.org/index.php/IEET/more/pellissier20120526">http://ieet.org/index.php/IEET/more/pellissier20120526</a>
 
 
                             <h3 id="Races-5">Межрасовые отношения и дети</h3>
@@ -1845,7 +1848,7 @@
 								Браки между гомосексуалистами распадаются на 50% чаще, чем традиционные.
 							</p><a target="_blank" href="">http://takimag.com/article/the_straight_dope_on_homosexuality_elizabeth_mccaw/print</a>
 							<p>
-								В Недерландах гомосексуалист в “постоянных отношениях” совершает от 7 до 8 измен в год.
+								В Нидерландах гомосексуалист в “постоянных отношениях” имеет от 7 до 8 отношений на стороне в год.
 							</p><a target="_blank" href="">http://takimag.com/article/the_straight_dope_on_homosexuality_elizabeth_mccaw/print</a>
 							<p>
 								Более 20% старых гомосексуалистов имели более 500 сексуальных партнеров.
@@ -2310,7 +2313,279 @@
 							<p>
 								Умные люди более склонны к сотрудничеству, чем глупые.
 							</p><a target="_blank" href="">http://www2.warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/255-2015_proto.pdf#page=2</a>
+							
+							
+							<h3 id="Val">Обоснованность рас</h3>
+							<p>Человечество может быть генетически разделено на пять групп, соответствующих традиционному понятию расы.
+							</p><a target="_blank" href="">http://pritchardlab.stanford.edu/publications/pdfs/RosenbergEtAl02.pdf</a>
+							<p>
+								Генетический анализ “подтверждает традиционную расовую клиссификацию”.
+							</p><a target="_blank" href="">http://psychology.uwo.ca/faculty/rushtonpdfs/PPPL1.pdf</a>
+							<p>
+								“Генетические различия людей географички структурирована” и соответствуют расам.
+							</p><a target="_blank" href="">http://www.nature.com/ng/journal/v36/n11s/full/ng1435.html</a>
+							<p>
+								Раса может быть определена с помощью генетического анализа с точностью более 99.8%.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/15625622</a>
+							<p>
+								Оральные бактерии могут быть использованы для определения расы.
+							</p><a target="_blank" href="">http://medicalxpress.com/news/2013-10-oral-bacteria-fingerprint-mouth.html</a>
+							<p>
+								Раса может быть определена с помощью сканирования мозга.
+							</p><a target="_blank" href="">http://www.cell.com/current-biology/abstract/S0960-9822%2815%2900671-5</a>
+							<p>
+								96-97% белых не имеют “африканской истории” в генофонде.
+							</p><a target="_blank" href="">http://www.theroot.com/articles/history/2013/02/how_mixed_are_african_americans.3.html</a>
+							<p>
+								97% белых не имеют в своем генофонде “черных генов” вообще.
+							</p><a target="_blank" href="">http://www.unz.com/isteve/nyt-white-Black-a-murky-distinction-grows-still-murkier/</a>
+							<p>
+								Поток генов между древними европейцами и азиатами был минимален.
+							</p><a target="_blank" href="">http://www.nytimes.com/2010/07/20/science/20adapt.html</a>
+							<p>
+								“Повсеместно известные” расовые категории имеют биологическое обоснование.
+							</p><a target="_blank" href="">http://www.ln.edu.hk/philoso/staff/sesardic/Race2.pdf</a>
+							<p>
+								Значительное количество человеческого генома было подвергнуто естественному отбору с тех пор, как расы разделились.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1317879/</a>
+							<p>
+								С помощью 160 коротких последовательностей генов можно с абсолютной точностью определить белого, азиата или африканца.
+							</p><a target="_blank" href="">http://www.cell.com/ajhg/abstract/S0002-9297%2807%2960574-6</a>
+							<p>
+								Основной континент происхождения (раса) человека может быть определен с 87% точностью даже среди очень смешанного населения.
+							</p><a target="_blank" href="">http://www.cell.com/ajhg/abstract/S0002-9297%2807%2960574-6</a>
+							<p>
+								“Неверно утверждать, что расы биологически не обоснованы.”
+							</p><a target="_blank" href="">http://www.nature.com/ng/journal/v36/n11s/full/ng1435.html</a>
+							<p>
+								Раса биологически реальна и представляет “генетические кластеры” вариаций.
+							</p><a target="_blank" href="">http://stx.sagepub.com/content/30/2/67.abstract</a>
+							<p>
+								“Эмпирическая структура в рамках генетической изменчивости человека ... напоминает расовые классификации на континентальной основе”.
+							</p><a target="_blank" href="">http://stx.sagepub.com/content/30/2/67.abstract</a>
+							<p>
+								“Недавние исследования в области генетики показывают, что определенные расовые, а также этнические категории имеют биологическую основу в статистически различимых кластерах аллелей.
+							</p><a target="_blank" href="">http://stx.sagepub.com/content/30/2/67.abstract</a>
+							<p>
+								“Многочисленные генетические исследования человеческой популяции пришли к одинаковому заключению, что генетическая дифференциация является наибольшей, когда она определяется на континентальной основе.”
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC139378/</a>
+							<p>
+								Генетический анализ расы соответствует самоидентификации более чем в 99% случаев.
+							</p><a target="_blank" href="">http://stx.sagepub.com/content/30/2/67.abstract</a>
+							<p>
+								Расы &mdash; это человеческий подвид.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/19695787</a>
+							<p>
+								«Социально-конструктивистское объяснение расы не соответствует биологической реальности»
+							</p><a target="_blank" href="">http://stx.sagepub.com/content/30/2/67.abstract</a>
+							<p>
+								Расу можно определить по отпечаткам пальцев.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22869/full</a>
+							<p>
+								Для 99,86% людей генетический анализ расы соответствует самоидентификации.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1196372/</a>
+							<p>
+								Предопределенные этнические/расовые ярлыки «очень информативны» в отношении генетической идентичности.
+							</p><a target="_blank" href="">https://web.stanford.edu/group/rosenberglab/papers/popstruct.pdf</a>
+							<p>
+								Более 2000 генов были подвержены недавней (постафриканской) эволюции.
+							</p><a target="_blank" href="">http://www.nytimes.com/2010/07/20/science/20adapt.html</a>
+							<p>
+								Концепция расы существовала в Древней Греции, Риме, Египте, Китае, Индии и Аравии.
+							</p><a target="_blank" href="">http://www.amazon.com/Race-The-Reality-Human-Differences/dp/0813340861</a>
+							<p>
+								Расовая классификация имеет генетическое значение.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1002/bies.10315/abstract</a>
+							<p>
+								Расовая индентификация реальна и скрыта в корреляциях между различными чертами.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1002/bies.10315/abstract</a>
+							<p>
+								С достаточным набором данных, человек никогда не будет ближе к кому-либо другой расы, чем к кому-либо своей расы.
+							</p><a target="_blank" href="">http://www.genetics.org/content/176/1/351</a>
+							<p>
+								Географическое происхождение человека может быть определено по его генам «с поразительной точностью».
+							</p><a target="_blank" href="">http://www.nature.com/nature/journal/v368/n6470/abs/368455a0.html</a>
 
+
+							<h3 id="Liber">Либерализм</h3>
+							<p>Чем более либерален кто-то, тем больше вероятность того, что он будет несправедливо дискриминировать других на основе политических взглядов.
+							</p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2002636</a>
+							<p>
+								Консервативные психологи сталкиваются с дискриминацией, которую либералы не замечают.
+							</p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2002636</a>
+							<p>
+								82% психологов готовы осуществлять дискриминацию людей консервативных взглядов.
+							</p><a target="_blank" href="">http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9945048</a>
+							<p>
+								Современная психология изобилует “прогрессивным” уклоном и нетерпимостью к консерваторам.
+							</p><a target="_blank" href="">http://cdp.sagepub.com/content/23/1/27.abstract</a>
+							<p>
+								Либералы так же нетерпимы, как и консерваторы.
+							</p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2239819</a>
+							<p>
+								Консерваторы счастливее либералов.
+							</p><a target="_blank" href="">http://ssrn.com/abstract=2239819</a>
+							<p>
+								Либералы последовательно недооценивают уровень сострадания консерваторов.
+							</p><a target="_blank" href="">http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050092</a>
+							<p>
+								Либералы считают себя более сострадательными, чем они есть на самом деле.
+							</p><a target="_blank" href="">http://heterodoxacademy.org/2015/09/23/how-marcuse-made-todays-students-less-tolerant-than-their-parents/</a>
+							<p>
+								Молодые люди, выступающие за социальную справедливость, менее терпимы, чем их сверстники.
+							</p><a target="_blank" href="">http://heterodoxacademy.org/2015/09/23/how-marcuse-made-todays-students-less-tolerant-than-their-parents/</a>
+							<p>
+								Консервативные и белые, живущие в сельской местности, подвергаются дискриминации при поступлении в колледжи США.
+							</p><a target="_blank" href="">http://www.nytimes.com/2010/07/19/opinion/19douthat.html?_r=0</a>
+							<p>
+								Либералы ценят жизнь чернокожих и иностранцев больше, чем жизнь белых и американцев.
+							</p><a target="_blank" href="">http://www.wired.com/2010/09/kill-whitey-its-the-right-thing-to-do/</a>
+							<p>
+								72% преподавателей американских колледжей либеральны, в то время как только 15% консервативны.
+							</p><a target="_blank" href="">http://www.washingtonpost.com/wp-dyn/articles/A8427-2005Mar28.htmlAt elite</a>
+							<p>
+								87% преподавателей американских колледжей считают себя либералами.
+							</p><a target="_blank" href="">http://www.washingtonpost.com/wp-dyn/articles/A8427-2005Mar28.html</a>
+
+
+							<h3 id="Other">Прочее</h3>
+							<p>В южных городах США (традиционно более консервативных &mdash; прим. перевод), с поправкой на расу и бедность, преступности меньше, чем в других американских городах.
+							</p><a target="_blank" href="">http://www.unz.com/article/race-and-crime-in-america/</a>
+							<p>
+								В Швеции ожидается снижение “Индекса человеческого развития” (из-за растущего количества черных и мусульманских мигрантов &mdash; прим. перевод.)
+							</p><a target="_blank" href="">http://ww.rrojasdatabank.info/HDRP_2010_40.pdf#page=45</a>
+							<p>
+								Разнообразие цвета волос и глаз у белых является следствием эволюционной адаптации.
+							</p><a target="_blank" href="">http://www.ceacb.ucl.ac.uk/cultureclub/files/CC2006-03-07_Frost.pdf</a>
+							<p>
+								1% населения Швеции несет ответственность за 63% всех преступлений.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969807/</a>
+							<p>
+								Без медицинских достижений уровень убийств был бы в 5 раз выше.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1124155/</a>
+							<p>
+								Ассимиляция в культуру принимающей страны улучшает самочувствие.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/24364853</a>
+							<p>
+								В традиционных обществах уровень самоубийств очень низок.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/3067529</a>
+							<p>
+								Эволюция человека непрерывна и продолжается по сей день.
+							</p><a target="_blank" href="">http://www.nytimes.com/2010/07/20/science/20adapt.html</a>
+							<p>
+								Более высокий уровень индивидуальности связан с меньшими временными предпочтениями.
+							</p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1481443</a>
+							<p>
+								Широкое применение смертной казни в истории Европы ответственно за мир и низкий уровень преступности сегодня (конечно, с мигрантами уже все не так &mdash; прим. перевод.)
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/25748943</a>
+							<p>
+								“Морально неприятные” гипотезы ошибочно рассматриваются как менее правдоподобные
+							</p><a target="_blank" href="">http://link.springer.com/article/10.1007/s13164-015-0282-z</a>
+							<p>
+								Воспоминания о ваших предках повышают интеллектуальную работоспособность.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1002/ejsp.778/abstract</a>
+							<p>
+								Эволюция человека началась всего лишь 500 поколений назад.
+							</p><a target="_blank" href="">http://biorxiv.org/content/early/2015/06/19/018929</a>
+							<p>
+								Все поведенческие черты в значительной степени наследуемы. Доказательства этого «повсеместны».
+							</p><a target="_blank" href="">http://www.nature.com/mp/journal/v20/n1/full/mp2014105a.html</a>
+							<p>
+								Наблюдение американского флага усиливает национализм.
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9221.2008.00670.x/abstract</a>
+							<p>
+								Расовые, религиозные, гендерные и другие стереотипы, как правило, точны.
+							</p><a target="_blank" href="">http://www.rci.rutgers.edu/~jussim/unbearable%20accuracy%20of%20stereotypes.pdf</a>
+							<p>
+								Стереотипы, как правило, точны, а предубеждения относительно невелики и скоротечны.
+							</p><a target="_blank" href="">http://www.amazon.com/Social-Perception-Reality-Dominates-Self-Fulfilling/dp/0195366603</a>
+							<p>
+								Школы с плохой успеваемостью часто получают равное или большее финансирование, чем школы с хорошей успеваемостью.
+							</p><a target="_blank" href="">http://www.gao.gov/new.items/d03234.pdf</a>
+							<p>
+								100% (324/324) китайских исследователей считают, что расы биологически реальны.
+							</p><a target="_blank" href="">http://collegium.hrvatsko-antropolosko-drustvo.hr/_doc/Coll.Antropol.28%282004%292_907-921.pdf</a>
+							<p>
+								Евреи, негры и женщины стояли за обращением научного консенсуса против обоснованности понятия расы.
+							</p><a target="_blank" href="">http://collegium.hrvatsko-antropolosko-drustvo.hr/_doc/Coll.Antropol.28%282004%292_907-921.pdf#page=6</a>
+							<p>
+								Американские солдаты имеют более высокие показатели IQ, чем гражданские.
+							</p><a target="_blank" href="">http://www.theamericanconservative.com/articles/fragmented-future/</a>
+							<p>
+								Насилие &mdash; наследственная черта.
+							</p><a target="_blank" href="">http://www.pnas.org/content/103/16/6085.full</a>
+							<p>
+								Обидные слова не причиняют вреда.
+							</p><a target="_blank" href="">http://psycnet.apa.org/journals/law/15/2/81/</a>
+							<p>
+								Доступ к интернету усиливает расовую вражду.
+							</p><a target="_blank" href="">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2335637</a>
+							<p>
+								73% населения Индии, или более 900 миллионов человек, по возможности переедут в Соединенные Штаты (при открытых границах). </p>
+							<a target="_blank" href="">https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/08/19/a-question-related-to-open-immigration-policy/</a>
+							<p>
+								В Европе культура близко соответствует генетической группе.
+							</p><a target="_blank" href="">http://www.ncbi.nlm.nih.gov/pubmed/23390109</a>
+							<p>
+								Феодальная Британия имела евгенический естественный отбор для богатых людей.
+							</p><a target="_blank" href="">http://www.econ.ucdavis.edu/faculty/gclark/papers/JEH2006.pdf#page=16</a>
+							<p>
+								В большинстве стран иммиграция снижает успеваемость местных школьников.
+							</p><a target="_blank" href="">http://wol.iza.org/articles/immigrants-in-classroom-and-effects-on-native-children</a>
+							<p>
+								От 2 до 6 процентов нелегалов проголосовали на выборах 2008 и 2010 годов.
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0261379414000973</a>
+							<p>
+								Иммиграция снизит средний IQ стран и приведет к краху западной цивилизации.
+							</p><a target="_blank" href="">http://www.sciencedirect.com/science/article/pii/S0191886911001073</a>
+							<p>
+								99% или более подростков, которые пытаются совершить самоубийство, терпят неудачу.
+							</p><a target="_blank" href="">http://williamsinstitute.law.ucla.edu/wp-content/uploads/AFSP-Williams-Suicide-Report-Final.pdf#page=4</a>
+							<p>
+								Северные страны «давно играют непропорционально малую роль в вопросах глобального развития».
+							</p><a target="_blank" href="">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2007.00176.x/abstract</a>
+							<p>
+								Более религиозные люди имеют более успешные браки.
+							</p><a target="_blank" href="">http://sf.oxfordjournals.org/content/early/2012/10/25/sf.sos126.abstract</a>
+							<p>
+								Домохозяйства с матерью-одиночкой и небиологическим отцом имеют самые высокие показатели жестокого обращения с детьми и отказа от ребенка.
+							</p><a target="_blank" href="">http://center4research.org/violence-risky-behavior/violence-and-threats-in-the-home/father-figures-are-the-answer-but-whats-the-question/</a>
+							<p>
+								Бедность не является причиной преступности.
+							</p><a target="_blank" href="">http://www.wsj.com/articles/SB10001424052748703580904574638024055735590</a>
+							<p>
+								Жители США, пользующиеся правом скрытого ношения оружия, совершают меньше преступлений, чем полицейские.
+							</p><a target="_blank" href="">http://crimeresearch.org/2015/02/cprc-in-fox-news-police-are-extremely-law-abiding-but-concealed-handgun-permit-holders-are-even-more-so/</a>
+							<p>
+								Стереотипы точны, и это одна из самых сильных находок в области психологии.
+							</p><a target="_blank" href="">https://www.psychologytoday.com/blog/rabble-rouser/201210/stereotype-inaccuracy</a>
+							<p>
+								Более состоятельные американцы более авторитарны и более склонны противостоять демократии, чем бедные американцы.
+							</p><a target="_blank" href="">http://www.vox.com/polyarchy/2015/12/18/9360663/is-democracy-in-trouble</a>
+							<p>
+								Во всем мире люди становятся менее склонными к демократии и более склонными к недемократическому правлению.
+							</p><a target="_blank" href="">http://www.vox.com/polyarchy/2015/12/18/9360663/is-democracy-in-trouble</a>
+							<p>
+								Со временем американцы все меньше поддерживают демократию.
+							</p><a target="_blank" href="">http://www.vox.com/polyarchy/2015/12/18/9360663/is-democracy-in-trouble</a>
+							<p>
+								Молодые американцы меньше поддерживают демократию, чем их родители.
+							</p><a target="_blank" href="">http://www.vox.com/polyarchy/2015/12/18/9360663/is-democracy-in-trouble</a>
+							<p>
+								40% состоятельных американцев отвергают демократию и поддерживают самодержавие.
+							</p><a target="_blank" href="">http://www.vox.com/polyarchy/2015/12/18/9360663/is-democracy-in-trouble</a>
+							<p>
+								Иммиграция в Соединенные Штаты усилила неравенство в доходах.
+							</p><a target="_blank" href="">http://spa.sagepub.com/content/early/2015/09/21/1532440015603814.abstract</a>
+							<p>
+								Людям самых разных культур больше всего нравятся традиционные пейзажи, а современное искусство &mdash; меньше всего.
+							</p><a target="_blank" href="">http://awp.diaart.org/km/index.php</a>
+							
+							<p><br /><br /><br /><br /><br />
+								Спасибо за внимание. Берегите себя и своих близких.
+								<br /><br />
+								<img src="~.png" alt="" />
+							</p>
 							
 						</div>
                     </div>
@@ -2319,9 +2594,6 @@
 
         </div>
     </div>
-//////////////////////////////////////////////////////////////////
-<!-- https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5 -->
- //////////////////////////////////////////////////////////////////   
 	
 	<script src="jquery.min.js"></script>
 

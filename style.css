@@ -18,6 +18,7 @@
     font-style: normal;
 }
 
+
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans');
 
 ::-moz-selection { background: #000; color: #FFF;}
@@ -80,19 +81,20 @@
 
 .page {
     padding-left: 20rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
     display: block;
 }
 
 .content {
     padding-top: 3rem;
-    padding-bottom: 6.25rem;
     max-width: 740px;
     margin: 0 auto;
     padding-left: 2.5rem;
     padding-right: 2.5rem;
     display: block;
 }
+
+ p.announcement a {font-size: inherit;}
 
 .content p {
     font-size: 20px;
